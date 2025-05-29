@@ -1,0 +1,4981 @@
+{
+  "idiom_groups": [
+    {
+      "group_id": 1,
+      "group_title": "一、中华文明传统文化",
+      "group_count": 0,
+      "idioms": [
+        {
+          "idiom_id": "1.1",
+          "idiom_text": "源远流长",
+          "explanation": "历史悠久"
+        },
+        {
+          "idiom_id": "1.2",
+          "idiom_text": "连绵不绝",
+          "explanation": "不间断"
+        },
+        {
+          "idiom_id": "1.3",
+          "idiom_text": "博大精深",
+          "explanation": "内容丰富"
+        },
+        {
+          "idiom_id": "1.4",
+          "idiom_text": "历久弥新",
+          "explanation": "越久越鲜活"
+        },
+        {
+          "idiom_id": "1.5",
+          "idiom_text": "兼收并蓄",
+          "explanation": "全接收 全保留"
+        }
+      ]
+    },
+    {
+      "group_id": 2,
+      "group_title": "二、文化传承",
+      "group_count": 0,
+      "subgroups": [
+        {
+          "subgroup_id": "2.1",
+          "subgroup_title": "一",
+          "subgroup_name": "传承不间断\n",
+          "idioms": [
+            {
+              "idiom_id": "2.1.1",
+              "idiom_text": "一脉相承",
+              "explanation": "纵向（eg:父子之间的一代一代的传承）"
+            },
+            {
+              "idiom_id": "2.1.2",
+              "idiom_text": "血脉相通",
+              "explanation": "横向（eg:海外侨胞与我们有血缘关系）"
+            },
+            {
+              "idiom_id": "2.1.3",
+              "idiom_text": "薪火相传",
+              "explanation": "传承学问技艺、精神，侧重火没灭"
+            },
+            {
+              "idiom_id": "2.1.4",
+              "idiom_text": "不绝如缕",
+              "explanation": "①声音、气息时断时续；②情势危急；③侧重一代一代传下来，一直不断（①②用的少、③常用 eg：典籍记载~。继承传统文化不要轰轰烈烈，而要~)"
+            }
+          ]
+        },
+        {
+          "subgroup_id": "2.2",
+          "subgroup_title": "二",
+          "subgroup_name": "传承方式\n",
+          "idioms": [
+            {
+              "idiom_id": "2.2.1",
+              "idiom_text": "口耳相传",
+              "explanation": "侧重传播方式"
+            },
+            {
+              "idiom_id": "2.2.2",
+              "idiom_text": "衣钵相传",
+              "explanation": "侧重师徒、父子间的传承"
+            },
+            {
+              "idiom_id": "2.2.3",
+              "idiom_text": "后继无人",
+              "explanation": "事业缺少接班人"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "group_id": 3,
+      "group_title": "三、改革创新",
+      "group_count": 0,
+      "idioms": [
+        {
+          "idiom_id": "3.1",
+          "idiom_text": "推陈出新",
+          "explanation": "形容文化；去掉旧的，推新的"
+        },
+        {
+          "idiom_id": "3.2",
+          "idiom_text": "吐故纳新",
+          "explanation": "吐气、吸气，侧重吸纳 eg:招公务员~"
+        },
+        {
+          "idiom_id": "3.3",
+          "idiom_text": "革故鼎新",
+          "explanation": "改革：改朝换代、重大变革、制度改变"
+        },
+        {
+          "idiom_id": "3.4",
+          "idiom_text": "弃旧图新",
+          "explanation": "换道，走新的正确的道路"
+        },
+        {
+          "idiom_id": "3.5",
+          "idiom_text": "去芜存菁",
+          "explanation": "除去杂质、保留精华"
+        },
+        {
+          "idiom_id": "3.6",
+          "idiom_text": "除旧布新",
+          "explanation": "以新的代替旧的 eg:中国年~"
+        }
+      ]
+    },
+    {
+      "group_id": 4,
+      "group_title": "四、做法、构思创新",
+      "group_count": 0,
+      "subgroups": [
+        {
+          "subgroup_id": "4.1",
+          "subgroup_title": "一",
+          "subgroup_name": "形容创新、独特\n",
+          "idioms": [
+            {
+              "idiom_id": "4.1.1",
+              "idiom_text": "另辟蹊径",
+              "explanation": "开辟新道路"
+            },
+            {
+              "idiom_id": "4.1.2",
+              "idiom_text": "标新立异",
+              "explanation": "主观上想不同：①提出不同见解；②故意与众不同（可褒可贬）"
+            },
+            {
+              "idiom_id": "4.1.3",
+              "idiom_text": "与时俱进",
+              "explanation": "动词，侧重做法"
+            }
+          ]
+        },
+        {
+          "subgroup_id": "4.2",
+          "subgroup_title": "二",
+          "subgroup_name": "形容心思独特、有创新\n",
+          "idioms": [
+            {
+              "idiom_id": "4.2.1",
+              "idiom_text": "匠心独运",
+              "explanation": "突出匠心，努力、巧妙的构思(文艺、技艺)"
+            },
+            {
+              "idiom_id": "4.2.2",
+              "idiom_text": "别出心裁",
+              "explanation": "突出不一样，小心思、小想法（和别人不同），提出不同的想法"
+            }
+          ]
+        },
+        {
+          "subgroup_id": "4.3",
+          "subgroup_title": "三",
+          "subgroup_name": "形容与众不同\n",
+          "idioms": [
+            {
+              "idiom_id": "4.3.1",
+              "idiom_text": "独树一帜",
+              "explanation": "侧重风格"
+            },
+            {
+              "idiom_id": "4.3.2",
+              "idiom_text": "自成一家",
+              "explanation": "独到的见解、做法，自成体系"
+            },
+            {
+              "idiom_id": "4.3.3",
+              "idiom_text": "别开生面",
+              "explanation": "局面、形式不一样 eg: 别开生面的联欢会/座谈会(常见固定搭配)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "group_id": 5,
+      "group_title": "五、守旧不创新",
+      "group_count": 0,
+      "idioms": [
+        {
+          "idiom_id": "5.1",
+          "idiom_text": "墨守成规",
+          "explanation": "守老规矩"
+        },
+        {
+          "idiom_id": "5.2",
+          "idiom_text": "抱残守缺",
+          "explanation": "守残缺、不符合时代发展的，要改革"
+        },
+        {
+          "idiom_id": "5.3",
+          "idiom_text": "因循守旧",
+          "explanation": "（本义）"
+        },
+        {
+          "idiom_id": "5.4",
+          "idiom_text": "固步自封",
+          "explanation": "主观上守旧不创新"
+        },
+        {
+          "idiom_id": "5.5",
+          "idiom_text": "食古不化",
+          "explanation": "学古代的知识不消化不吸收->不透彻、不灵活、不会运用"
+        },
+        {
+          "idiom_id": "5.6",
+          "idiom_text": "陈陈相因",
+          "explanation": "沿袭老一套，没有改进"
+        }
+      ]
+    },
+    {
+      "group_id": 6,
+      "group_title": "六、按规矩办事",
+      "group_count": 0,
+      "subgroups": [
+        {
+          "subgroup_id": "6.1",
+          "subgroup_title": "一",
+          "subgroup_name": "形容按规矩办事\n",
+          "idioms": [
+            {
+              "idiom_id": "6.1.1",
+              "idiom_text": "按图索骥",
+              "explanation": "①做事死守教条，而不懂得变通（用的少）；②按线索寻找事物（中性词）"
+            },
+            {
+              "idiom_id": "6.1.2",
+              "idiom_text": "按部就班",
+              "explanation": "按照一定的步骤、顺序做事（中性词）eg: ①学习要~，迅速渐进。②考上公务员后，年轻人不能~，要有创新精神"
+            },
+            {
+              "idiom_id": "6.1.3",
+              "idiom_text": "循规蹈矩",
+              "explanation": "守着老规矩，不敢变动（中性词）"
+            },
+            {
+              "idiom_id": "6.1.4",
+              "idiom_text": "循规拘礼",
+              "explanation": "遵循规则，拘泥礼节"
+            }
+          ]
+        },
+        {
+          "subgroup_id": "6.2",
+          "subgroup_title": "二",
+          "subgroup_name": "形容有条理有步骤\n",
+          "idioms": [
+            {
+              "idiom_id": "6.2.1",
+              "idiom_text": "循序渐进",
+              "explanation": "按照一定的步骤逐渐深入/提高，由易到难（褒义）"
+            },
+            {
+              "idiom_id": "6.2.2",
+              "idiom_text": "有条不紊",
+              "explanation": "有条理而不乱"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "group_id": 7,
+      "group_title": "七、处境困难",
+      "group_count": 0,
+      "subgroups": [
+        {
+          "subgroup_id": "7.1",
+          "subgroup_title": "一",
+          "subgroup_name": "形容不敢前进\n",
+          "idioms": [
+            {
+              "idiom_id": "7.1.1",
+              "idiom_text": "望而却步",
+              "explanation": "侧重行为上退却，多因为害怕、惊讶、震撼、犹豫、顾虑等。有压力，无能为力而不前进"
+            },
+            {
+              "idiom_id": "7.1.2",
+              "idiom_text": "望而生畏",
+              "explanation": "侧重情绪上的害怕"
+            },
+            {
+              "idiom_id": "7.1.3",
+              "idiom_text": "畏蕙不前",
+              "explanation": "畏惧退缩，不敢前进。形容一种状态"
+            }
+          ]
+        },
+        {
+          "subgroup_id": "7.2",
+          "subgroup_title": "二",
+          "subgroup_name": "形容不好抉择\n",
+          "idioms": [
+            {
+              "idiom_id": "7.2.1",
+              "idiom_text": "进退两难",
+              "explanation": "前进和后退都难，不好抉择（=跋前疐后）"
+            },
+            {
+              "idiom_id": "7.2.2",
+              "idiom_text": "进退维谷",
+              "explanation": "前后都是艰难的处境，怎么选都很困难 eg: 当敌方发现陷入埋伏时，已~，陷入绝境，成瓮中之鳖。（侧重困境）"
+            },
+            {
+              "idiom_id": "7.2.3",
+              "idiom_text": "进退失据",
+              "explanation": "进退失去屏障，无法隐藏 eg: 日军~，最后只能逃。（侧重无法隐藏）"
+            },
+            {
+              "idiom_id": "7.2.4",
+              "idiom_text": "骑虎难下",
+              "explanation": "事情遇到困难，停不下来、不能中止，硬着头皮往前干"
+            }
+          ]
+        },
+        {
+          "subgroup_id": "7.3",
+          "subgroup_title": "三",
+          "subgroup_name": "形容处境艰难\n",
+          "idioms": [
+            {
+              "idiom_id": "7.3.1",
+              "idiom_text": "举步维艰",
+              "explanation": "每一步走得都很艰难"
+            },
+            {
+              "idiom_id": "7.3.2",
+              "idiom_text": "寸步难行",
+              "explanation": "一动也动不了"
+            },
+            {
+              "idiom_id": "7.3.3",
+              "idiom_text": "难以为继",
+              "explanation": "关于事，继续不下去了"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "group_id": 8,
+      "group_title": "八、形势危险",
+      "group_count": 0,
+      "subgroups": [
+        {
+          "subgroup_id": "8.1",
+          "subgroup_title": "一",
+          "subgroup_name": "形容形势危险\n",
+          "idioms": [
+            {
+              "idiom_id": "8.1.1",
+              "idiom_text": "岌岌可危",
+              "explanation": "危险"
+            },
+            {
+              "idiom_id": "8.1.2",
+              "idiom_text": "危如累卵",
+              "explanation": "非常危险，说倒就倒eg:洪水下的居民区~"
+            },
+            {
+              "idiom_id": "8.1.3",
+              "idiom_text": "命悬一线",
+              "explanation": "侧重生命，非常危险"
+            },
+            {
+              "idiom_id": "8.1.4",
+              "idiom_text": "奄奄一息",
+              "explanation": "侧重生命，濒临死亡"
+            },
+            {
+              "idiom_id": "8.1.5",
+              "idiom_text": "风雨飘摇",
+              "explanation": "国家/家庭不稳定、动荡不安"
+            }
+          ]
+        },
+        {
+          "subgroup_id": "8.2",
+          "subgroup_title": "二",
+          "subgroup_name": "侧重时间\n",
+          "idioms": [
+            {
+              "idiom_id": "8.2.1",
+              "idiom_text": "危在旦夕",
+              "explanation": "危险就在眼前"
+            },
+            {
+              "idiom_id": "8.2.2",
+              "idiom_text": "危若朝露",
+              "explanation": "危险就在眼前，形容面临灭亡，情况紧急"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "group_id": 9,
+      "group_title": "九、事物出现、发展、衰落",
+      "group_count": 0,
+      "subgroups": [
+        {
+          "subgroup_id": "9.1",
+          "subgroup_title": "一",
+          "subgroup_name": "出现、萌生\n",
+          "idioms": [
+            {
+              "idiom_id": "9.1.1",
+              "idiom_text": "层出不穷",
+              "explanation": "接连出现，侧重出现的东西太多。eg:各种新技术、新模式、新科技、新应用~"
+            },
+            {
+              "idiom_id": "9.1.2",
+              "idiom_text": "风起云涌",
+              "explanation": "①新兴事物发展迅速，声势浩大（兴起时侯的气势状态）；②主谓、偏正 eg:时代~、改革~、革命~"
+            },
+            {
+              "idiom_id": "9.1.3",
+              "idiom_text": "方兴未艾",
+              "explanation": "①正在发展，远末停止；②主谓 eg:数字产业/人工智能~"
+            },
+            {
+              "idiom_id": "9.1.4",
+              "idiom_text": "雨后春笋",
+              "explanation": "新生事物大量涌现和蓬勃发展，侧重数量多。固定用法：如~般"
+            },
+            {
+              "idiom_id": "9.1.5",
+              "idiom_text": "横空出世",
+              "explanation": "突然间出现，侧重突出、明显 eg:奥运小将~。"
+            },
+            {
+              "idiom_id": "9.1.6",
+              "idiom_text": "异军突起",
+              "explanation": "一支新生力量突然崛起（没太被关注的时候）eg:拼多多"
+            },
+            {
+              "idiom_id": "9.1.7",
+              "idiom_text": "应运而生",
+              "explanation": "在恰当的时机出现（顺应时机而产生），形容好的事物"
+            }
+          ]
+        },
+        {
+          "subgroup_id": "9.2",
+          "subgroup_title": "二",
+          "subgroup_name": "发展势头好\n",
+          "idioms": [
+            {
+              "idiom_id": "9.2.1",
+              "idiom_text": "高歌猛进",
+              "explanation": "过程顺利，气势足、士气旺 eg:中国女排一路~，冲到决赛"
+            },
+            {
+              "idiom_id": "9.2.2",
+              "idiom_text": "如火如荼",
+              "explanation": "什么事正在开展，场面热烈 eg:运动会在~地开展"
+            },
+            {
+              "idiom_id": "9.2.3",
+              "idiom_text": "蒸蒸日上",
+              "explanation": "势头好，向着好的方向发展；常搭配事业、国家、人民生活等，侧重向上"
+            },
+            {
+              "idiom_id": "9.2.4",
+              "idiom_text": "如日中天",
+              "explanation": "鼎盛阶段"
+            },
+            {
+              "idiom_id": "9.2.5",
+              "idiom_text": "势如破竹",
+              "explanation": "更顺利（比高歌猛进还顺利），根本没有阻挡（节节胜利，毫无阻碍）"
+            },
+            {
+              "idiom_id": "9.2.6",
+              "idiom_text": "突飞猛进",
+              "explanation": "进步快 eg:成绩~"
+            }
+          ]
+        },
+        {
+          "subgroup_id": "9.3",
+          "subgroup_title": "三",
+          "subgroup_name": "形容发展迅速\n",
+          "idioms": [
+            {
+              "idiom_id": "9.3.1",
+              "idiom_text": "一日千里",
+              "explanation": "进步、发展快"
+            },
+            {
+              "idiom_id": "9.3.2",
+              "idiom_text": "日新月异",
+              "explanation": "发展快，变化多（每天都有发展、新变化）"
+            },
+            {
+              "idiom_id": "9.3.3",
+              "idiom_text": "坂上走丸",
+              "explanation": "形势发展迅速、工作进行顺利"
+            }
+          ]
+        },
+        {
+          "subgroup_id": "9.4",
+          "subgroup_title": "四",
+          "subgroup_name": "逐渐衰落\n",
+          "idioms": [
+            {
+              "idiom_id": "9.4.1",
+              "idiom_text": "日渐式微",
+              "explanation": "事物逐渐地由兴盛到衰弱，一般形容传统产业 eg:纸媒~"
+            },
+            {
+              "idiom_id": "9.4.2",
+              "idiom_text": "每况愈下",
+              "explanation": "越来越糟糕，侧重身体/精神/生活水平"
+            },
+            {
+              "idiom_id": "9.4.3",
+              "idiom_text": "江河日下",
+              "explanation": "事物日趋衰落，情况一天不如一天；侧重事业/国情/国运"
+            }
+          ]
+        },
+        {
+          "subgroup_id": "9.5",
+          "subgroup_title": "五",
+          "subgroup_name": "其他\n",
+          "idioms": [
+            {
+              "idiom_id": "9.5.1",
+              "idiom_text": "水涨船高",
+              "explanation": "两个主体，A 随着 B 的基础而增长"
+            },
+            {
+              "idiom_id": "9.5.2",
+              "idiom_text": "此消彼长",
+              "explanation": "对立，二者~：你上去了，我就下来了"
+            },
+            {
+              "idiom_id": "9.5.3",
+              "idiom_text": "波澜壮阔",
+              "explanation": "声势雄壮、规模宏大，形容历史过程等 eg:~的改革史/革命史/发展史"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "group_id": 10,
+      "group_title": "十、竞争比较",
+      "group_count": 0,
+      "subgroups": [
+        {
+          "subgroup_id": "10.1",
+          "subgroup_title": "一",
+          "subgroup_name": "和别人相比较\n",
+          "idioms": [
+            {
+              "idiom_id": "10.1.1",
+              "idiom_text": "相形见绌",
+              "explanation": "和别的相比明显不足（和 A 相比，B~）"
+            },
+            {
+              "idiom_id": "10.1.2",
+              "idiom_text": "出类拔萃",
+              "explanation": "优秀，比同类好"
+            },
+            {
+              "idiom_id": "10.1.3",
+              "idiom_text": "无与伦比",
+              "explanation": "完美，没有能够与它相比的同类的东西"
+            }
+          ]
+        },
+        {
+          "subgroup_id": "10.2",
+          "subgroup_title": "二",
+          "subgroup_name": "表现突出\n",
+          "idioms": [
+            {
+              "idiom_id": "10.2.1",
+              "idiom_text": "脱颖而出",
+              "explanation": "竞争中胜出（有比较）；才能完全显露出来 eg:祝你在公务员考试中脱颖而出，在工作单位中崭露头角！"
+            },
+            {
+              "idiom_id": "10.2.2",
+              "idiom_text": "崭露头角",
+              "explanation": "无竞争；出点小名，露出一些才能"
+            }
+          ]
+        },
+        {
+          "subgroup_id": "10.3",
+          "subgroup_title": "三",
+          "subgroup_name": "赶得上/赶不上\n",
+          "idioms": [
+            {
+              "idiom_id": "10.3.1",
+              "idiom_text": "望其项背",
+              "explanation": "有能力赶得上。（常用于否定句：难以～、无法～、不能～）难以望其项背=望尘莫及"
+            },
+            {
+              "idiom_id": "10.3.2",
+              "idiom_text": "望尘莫及",
+              "explanation": "①远远落在后面，追不上；②自谦 eg:中国航天事业与国外相比，一开始望尘莫及（追不上），慢慢地望其项背（追得上），现在已经并驾齐驱了"
+            }
+          ]
+        },
+        {
+          "subgroup_id": "10.4",
+          "subgroup_title": "四",
+          "subgroup_name": "同等地位\n",
+          "idioms": [
+            {
+              "idiom_id": "10.4.1",
+              "idiom_text": "相提并论",
+              "explanation": "谁和谁水平不一样，一般用于否定句；侧重水平高低"
+            },
+            {
+              "idiom_id": "10.4.2",
+              "idiom_text": "同日而语",
+              "explanation": "侧重时间上的对比"
+            },
+            {
+              "idiom_id": "10.4.3",
+              "idiom_text": "等量齐观",
+              "explanation": "双主语，是不是同等看待，A 和 B 可/不可等量齐观（可肯定/否定句式）"
+            },
+            {
+              "idiom_id": "10.4.4",
+              "idiom_text": "一概而论",
+              "explanation": "用同一标准看待或处理（多用于否定：不能～）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "group_id": 11,
+      "group_title": "十一、能力不足",
+      "group_count": 0,
+      "subgroups": [
+        {
+          "subgroup_id": "11.1",
+          "subgroup_title": "一",
+          "subgroup_name": "能力有限\n",
+          "idioms": [
+            {
+              "idiom_id": "11.1.1",
+              "idiom_text": "力有未逮",
+              "explanation": "有意愿却做不到，力量不够"
+            },
+            {
+              "idiom_id": "11.1.2",
+              "idiom_text": "爱莫能助",
+              "explanation": "想帮帮不了"
+            },
+            {
+              "idiom_id": "11.1.3",
+              "idiom_text": "鞭长莫及",
+              "explanation": "距离太远，帮不到"
+            },
+            {
+              "idiom_id": "11.1.4",
+              "idiom_text": "望洋兴叹",
+              "explanation": "感叹自己的渺小而无可奈何"
+            },
+            {
+              "idiom_id": "11.1.5",
+              "idiom_text": "力不从心",
+              "explanation": "心里想做，可是力量够不上"
+            },
+            {
+              "idiom_id": "11.1.6",
+              "idiom_text": "回天乏术",
+              "explanation": "侧重治疗、病情、局势严重，救不了了"
+            }
+          ]
+        },
+        {
+          "subgroup_id": "11.2",
+          "subgroup_title": "二",
+          "subgroup_name": "应付不了\n",
+          "idioms": [
+            {
+              "idiom_id": "11.2.1",
+              "idiom_text": "捉襟见肘",
+              "explanation": "力量不足，应付不过来。侧重人力、物力、资金、经济等资源有限"
+            },
+            {
+              "idiom_id": "11.2.2",
+              "idiom_text": "顾此失彼",
+              "explanation": "侧重慌乱、忙不过来的状态"
+            },
+            {
+              "idiom_id": "11.2.3",
+              "idiom_text": "左支右绌",
+              "explanation": "侧重力量不够，应付不过来"
+            },
+            {
+              "idiom_id": "11.2.4",
+              "idiom_text": "独木难支",
+              "explanation": "侧重支撑。 大厦是两根柱子的支撑，缺一~eg:法律和道德"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "group_id": 12,
+      "group_title": "十二、印象和效果",
+      "group_count": 0,
+      "subgroups": [
+        {
+          "subgroup_id": "12.1",
+          "subgroup_title": "一",
+          "subgroup_name": "形容学习粗浅\n",
+          "idioms": [
+            {
+              "idiom_id": "12.1.1",
+              "idiom_text": "浮光掠影",
+              "explanation": "侧重结果上的印象不深刻 常见固定搭配：~般的一瞥所见"
+            },
+            {
+              "idiom_id": "12.1.2",
+              "idiom_text": "走马观花",
+              "explanation": "侧重过程的不深入"
+            },
+            {
+              "idiom_id": "12.1.3",
+              "idiom_text": "蜻蜓点水",
+              "explanation": "侧重调研、调查、执法等工作不深入"
+            },
+            {
+              "idiom_id": "12.1.4",
+              "idiom_text": "浅尝辄止",
+              "explanation": "侧重读书、做学问（学习/研究）不深入，浅浅尝试就停止"
+            },
+            {
+              "idiom_id": "12.1.5",
+              "idiom_text": "囫囵吞枣",
+              "explanation": "①不详细研究内在问题②强调读书不深刻、不理解（笼统地接受，不加分析、甄别，不求甚解）③侧重做法"
+            },
+            {
+              "idiom_id": "12.1.6",
+              "idiom_text": "不求甚解",
+              "explanation": "侧重一种态度（只求懂个大概，不深入体会）"
+            }
+          ]
+        },
+        {
+          "subgroup_id": "12.2",
+          "subgroup_title": "二",
+          "subgroup_name": "形容学到一点就能推知更多\n",
+          "idioms": [
+            {
+              "idiom_id": "12.2.1",
+              "idiom_text": "举一反三",
+              "explanation": "①侧重方法、做法②语境：社会/政府相关单位发现…问题，要~看看有没有别的问题"
+            },
+            {
+              "idiom_id": "12.2.2",
+              "idiom_text": "融会贯通",
+              "explanation": "把知识融合在一起，全面透彻地了解（侧重融合）"
+            },
+            {
+              "idiom_id": "12.2.3",
+              "idiom_text": "触类旁通",
+              "explanation": "接触了这类事物（了解某一规律），类似的都明白了（侧重类推）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "group_id": 13,
+      "group_title": "十三、搭档配合",
+      "group_count": 0,
+      "subgroups": [
+        {
+          "subgroup_id": "13.1",
+          "subgroup_title": "一",
+          "subgroup_name": "合作配合\n",
+          "idioms": [
+            {
+              "idiom_id": "13.1.1",
+              "idiom_text": "相辅相成",
+              "explanation": "0.5+0.5=1  侧重互为补充，缺一不可"
+            },
+            {
+              "idiom_id": "13.1.2",
+              "idiom_text": "相得益彰",
+              "explanation": "1+1＞2  放在一起效果好"
+            },
+            {
+              "idiom_id": "13.1.3",
+              "idiom_text": "锦上添花",
+              "explanation": "10+1  好上加好"
+            },
+            {
+              "idiom_id": "13.1.4",
+              "idiom_text": "珠联璧合",
+              "explanation": "10+10  都很优秀！两个好的加在一起，侧重结合"
+            },
+            {
+              "idiom_id": "13.1.5",
+              "idiom_text": "互为表里",
+              "explanation": "互相依存，互相接受。固定搭配：风腐问题~（不正之风/腐败问题~）"
+            }
+          ]
+        },
+        {
+          "subgroup_id": "13.2",
+          "subgroup_title": "二",
+          "subgroup_name": "二者都好\n",
+          "idioms": [
+            {
+              "idiom_id": "13.2.1",
+              "idiom_text": "交相辉映",
+              "explanation": "形容美好的景象，可形容抽象、具体 eg:文明之光和艺术之美~ 太阳和月亮~"
+            },
+            {
+              "idiom_id": "13.2.2",
+              "idiom_text": "相映成趣",
+              "explanation": "侧重有趣、有意思 eg:飞扬老师和花生老师在班门口~"
+            },
+            {
+              "idiom_id": "13.2.3",
+              "idiom_text": "双峰并峙",
+              "explanation": "强调无交集，用于在各自领域地位/成就都极高 eg:唐诗宋词如~，两水分流"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "group_id": 14,
+      "group_title": "十四、工作开展顺序",
+      "group_count": 0,
+      "idioms": [
+        {
+          "idiom_id": "14.1",
+          "idiom_text": "并行不悖",
+          "explanation": "①侧重同时进行而不冲突 ②完美语境：看似冲突、实则不冲突的两个主体（别的语境也可用）eg:①环境发展和环境保护~ ②经济发展和疫情防控~"
+        },
+        {
+          "idiom_id": "14.2",
+          "idiom_text": "齐头并进",
+          "explanation": "多项工作、事业可同时进行"
+        },
+        {
+          "idiom_id": "14.3",
+          "idiom_text": "双管齐下",
+          "explanation": "①一件事同时采用两个方法、对策 ②两件事同时进行"
+        },
+        {
+          "idiom_id": "14.4",
+          "idiom_text": "并驾齐驱",
+          "explanation": "侧重水平相当"
+        },
+        {
+          "idiom_id": "14.5",
+          "idiom_text": "一马当先",
+          "explanation": "领先，走在最前面"
+        }
+      ]
+    },
+    {
+      "group_id": 15,
+      "group_title": "十五、错误抉择和方向",
+      "group_count": 0,
+      "subgroups": [
+        {
+          "subgroup_id": "15.1",
+          "subgroup_title": "一",
+          "subgroup_name": "错误抉择\n",
+          "idioms": [
+            {
+              "idiom_id": "15.1.1",
+              "idiom_text": "本末倒置",
+              "explanation": "事情的轻重主次颠倒"
+            },
+            {
+              "idiom_id": "15.1.2",
+              "idiom_text": "舍本逐末",
+              "explanation": "放弃根本，追求末节，轻重主次倒置"
+            },
+            {
+              "idiom_id": "15.1.3",
+              "idiom_text": "喧宾夺主",
+              "explanation": "外来的或次要的事物占据了主体地位"
+            },
+            {
+              "idiom_id": "15.1.4",
+              "idiom_text": "得不偿失",
+              "explanation": "得到的抵不上失去的 eg:先污染、后治理的代价过大，~"
+            },
+            {
+              "idiom_id": "15.1.5",
+              "idiom_text": "因小失大",
+              "explanation": "①为了小的利益造成大的损失 ②语境：老人为了占小便宜，领了免费的鸡蛋，买了 5 万的床，~"
+            },
+            {
+              "idiom_id": "15.1.6",
+              "idiom_text": "因噎废食",
+              "explanation": "怕犯错，啥也不敢做了"
+            }
+          ]
+        },
+        {
+          "subgroup_id": "15.2",
+          "subgroup_title": "二",
+          "subgroup_name": "相悖、相反\n",
+          "idioms": [
+            {
+              "idiom_id": "15.2.1",
+              "idiom_text": "背道而驰",
+              "explanation": "侧重两个主体，方向和目标相反     eg:美国很多做法和全世界人民的愿望~"
+            },
+            {
+              "idiom_id": "15.2.2",
+              "idiom_text": "南辕北辙",
+              "explanation": "侧重一个主体，行动和目的截然相反 eg:你这么做就和你的初衷~了"
+            },
+            {
+              "idiom_id": "15.2.3",
+              "idiom_text": "分道扬镳",
+              "explanation": "走向不同的方向      eg:科学和哲学~"
+            },
+            {
+              "idiom_id": "15.2.4",
+              "idiom_text": "缘木求鱼",
+              "explanation": "错误方向、方法，不可能达到目的 eg:台湾把水果卖给东南亚，无异于~"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "group_id": 16,
+      "group_title": "十六、错误做法",
+      "group_count": 0,
+      "idioms": [
+        {
+          "idiom_id": "16.1",
+          "idiom_text": "拔苗助长",
+          "explanation": "违背客观规律办事：语境①教育孩子②政府想让企业尽快成长"
+        },
+        {
+          "idiom_id": "16.2",
+          "idiom_text": "越俎代庖",
+          "explanation": "超出自己的职权范围做事，可形容①家长和孩子②政府和市场关系"
+        },
+        {
+          "idiom_id": "16.3",
+          "idiom_text": "削足适履",
+          "explanation": "①不顾具体条件、客观实际牵强做事②语境：某政府学习其他地区经验"
+        },
+        {
+          "idiom_id": "16.4",
+          "idiom_text": "闭门造车",
+          "explanation": "只凭主观办事，不顾客观实际"
+        },
+        {
+          "idiom_id": "16.5",
+          "idiom_text": "刻舟求剑",
+          "explanation": "不以发展的眼光看待问题"
+        },
+        {
+          "idiom_id": "16.6",
+          "idiom_text": "守株待兔",
+          "explanation": "①不劳而获   ②死守狭隘经验，不知变通"
+        },
+        {
+          "idiom_id": "16.7",
+          "idiom_text": "掩耳盗铃",
+          "explanation": "真傻，自欺欺人"
+        },
+        {
+          "idiom_id": "16.8",
+          "idiom_text": "邯郸学步",
+          "explanation": "不仅没学会，自己原来的本事也丢了"
+        },
+        {
+          "idiom_id": "16.9",
+          "idiom_text": "东施效颦",
+          "explanation": "学的不像，反而出了丑"
+        },
+        {
+          "idiom_id": "16.10",
+          "idiom_text": "盲人摸象",
+          "explanation": "片面，没有整体的判断"
+        },
+        {
+          "idiom_id": "16.11",
+          "idiom_text": "与虎谋皮",
+          "explanation": "和既得利益者商量献出利益是不可能的（让其让出自己的利益？No Way!）"
+        }
+      ]
+    },
+    {
+      "group_id": 17,
+      "group_title": "十七、教育影响批评",
+      "group_count": 0,
+      "subgroups": [
+        {
+          "subgroup_id": "17.1",
+          "subgroup_title": "一",
+          "subgroup_name": "形容影响感化\n",
+          "idioms": [
+            {
+              "idiom_id": "17.1.1",
+              "idiom_text": "潜移默化",
+              "explanation": "侧重在环境中不知不觉受影响"
+            },
+            {
+              "idiom_id": "17.1.2",
+              "idiom_text": "耳濡目染",
+              "explanation": "侧重耳朵听、眼睛看"
+            },
+            {
+              "idiom_id": "17.1.3",
+              "idiom_text": "如沐春风",
+              "explanation": "①强调感受舒服，像沐浴在春风里   ②语境：让企业~   营商环境"
+            },
+            {
+              "idiom_id": "17.1.4",
+              "idiom_text": "润物无声",
+              "explanation": "不知不觉，强调文化教育等对人的潜移默化的影响"
+            },
+            {
+              "idiom_id": "17.1.5",
+              "idiom_text": "成风化人",
+              "explanation": "社会上形成一种好的风气去教化人、感化人"
+            }
+          ]
+        },
+        {
+          "subgroup_id": "17.2",
+          "subgroup_title": "二",
+          "subgroup_name": "形容教育与批评\n",
+          "idioms": [
+            {
+              "idiom_id": "17.2.1",
+              "idiom_text": "耳提面命",
+              "explanation": "当面指教，严肃恳切地教导或要求严格"
+            },
+            {
+              "idiom_id": "17.2.2",
+              "idiom_text": "苦口婆心",
+              "explanation": "善意且耐心地反复劝导他人"
+            },
+            {
+              "idiom_id": "17.2.3",
+              "idiom_text": "循循善诱",
+              "explanation": "善于有步骤地启发引导，形容教育得法"
+            },
+            {
+              "idiom_id": "17.2.4",
+              "idiom_text": "诲人不倦",
+              "explanation": "教导人时很有耐心不知疲惫"
+            },
+            {
+              "idiom_id": "17.2.5",
+              "idiom_text": "春风化雨",
+              "explanation": "①不是强迫性要求别人做什么，而是像春风和雨一样去感化、影响别人，潜移默化 ②比喻良好的教育。"
+            },
+            {
+              "idiom_id": "17.2.6",
+              "idiom_text": "和风细雨",
+              "explanation": "温柔地批评、劝导、劝告"
+            }
+          ]
+        },
+        {
+          "subgroup_id": "17.3",
+          "subgroup_title": "三",
+          "subgroup_name": "形容醒悟、唤醒\n",
+          "idioms": [
+            {
+              "idiom_id": "17.3.1",
+              "idiom_text": "醍醐灌顶",
+              "explanation": "透了，一下子就明白了，顿悟"
+            },
+            {
+              "idiom_id": "17.3.2",
+              "idiom_text": "振聋发聩",
+              "explanation": "唤醒糊涂麻木之人"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "group_id": 18,
+      "group_title": "十八、工作学习状态",
+      "group_count": 0,
+      "subgroups": [
+        {
+          "subgroup_id": "18.1",
+          "subgroup_title": "一",
+          "subgroup_name": "工作谨慎认真\n",
+          "idioms": [
+            {
+              "idiom_id": "18.1.1",
+              "idiom_text": "如履薄冰",
+              "explanation": "①极度的小心谨慎 ②必须~的工作：修复古籍、制造导弹/飞机/战斗机…"
+            },
+            {
+              "idiom_id": "18.1.2",
+              "idiom_text": "兢兢业业",
+              "explanation": "工作认真谨慎、很敬业"
+            }
+          ]
+        },
+        {
+          "subgroup_id": "18.2",
+          "subgroup_title": "二",
+          "subgroup_name": "形容尽心钻研学习\n",
+          "idioms": [
+            {
+              "idiom_id": "18.2.1",
+              "idiom_text": "聚精会神",
+              "explanation": "专心致志，注意力高度集中的样子 ps:短时间的(30 年~不行)eg:专心致志地学习，聚精会神地看"
+            },
+            {
+              "idiom_id": "18.2.2",
+              "idiom_text": "专心致志",
+              "explanation": "一心一意，精神集中"
+            },
+            {
+              "idiom_id": "18.2.3",
+              "idiom_text": "殚精竭虑",
+              "explanation": "费尽心思和精力，用于科研工作（=呕心沥血）"
+            },
+            {
+              "idiom_id": "18.2.4",
+              "idiom_text": "苦心孤诣",
+              "explanation": "费尽心思、用心地研究，达到别人达不到的程度"
+            },
+            {
+              "idiom_id": "18.2.5",
+              "idiom_text": "废寝忘食",
+              "explanation": "形容对某事专心致志，可以夸人，但不能要求别人"
+            },
+            {
+              "idiom_id": "18.2.6",
+              "idiom_text": "皓首穷经",
+              "explanation": "学到老，也可形容长期钻研"
+            },
+            {
+              "idiom_id": "18.2.7",
+              "idiom_text": "心无旁骛",
+              "explanation": "很专心，没有别的心思和追求"
+            },
+            {
+              "idiom_id": "18.2.8",
+              "idiom_text": "挖空心思",
+              "explanation": "费尽心机地想达到目的，贬义"
+            }
+          ]
+        },
+        {
+          "subgroup_id": "18.3",
+          "subgroup_title": "三",
+          "subgroup_name": "抓紧时间、勤奋\n",
+          "idioms": [
+            {
+              "idiom_id": "18.3.1",
+              "idiom_text": "夜以继日",
+              "explanation": "十分勤奋、勤恳、忙碌 eg:~地工作"
+            },
+            {
+              "idiom_id": "18.3.2",
+              "idiom_text": "焚膏继晷",
+              "explanation": "形容夜以继日地用功读书、努力工作"
+            },
+            {
+              "idiom_id": "18.3.3",
+              "idiom_text": "夙兴夜寐",
+              "explanation": "早起晚睡，形容工作学习勤奋辛劳"
+            },
+            {
+              "idiom_id": "18.3.4",
+              "idiom_text": "目不窥园",
+              "explanation": "形容学习专心致志，十分刻苦"
+            }
+          ]
+        },
+        {
+          "subgroup_id": "18.4",
+          "subgroup_title": "四",
+          "subgroup_name": "辛苦奔波\n",
+          "idioms": [
+            {
+              "idiom_id": "18.4.1",
+              "idiom_text": "栉风沐雨",
+              "explanation": "形容人辛苦地四处奔波"
+            },
+            {
+              "idiom_id": "18.4.2",
+              "idiom_text": "风餐露宿",
+              "explanation": "形容旅途中的辛苦劳累 eg:考古、室外工作~"
+            },
+            {
+              "idiom_id": "18.4.3",
+              "idiom_text": "筚路蓝缕",
+              "explanation": "①形容创业的艰难与辛苦 ②国家大事也叫创业，eg:航天/航海/党~ ③也可形容事情发展的初期阶段"
+            },
+            {
+              "idiom_id": "18.4.4",
+              "idiom_text": "披星戴月",
+              "explanation": "形容早出晚归、连夜赶路，非常辛苦"
+            }
+          ]
+        },
+        {
+          "subgroup_id": "18.5",
+          "subgroup_title": "五",
+          "subgroup_name": "勤勉不懈怠",
+          "idioms": [
+            {
+              "idiom_id": "18.5.1",
+              "idiom_text": "孜孜不倦",
+              "explanation": "不知疲倦地追求探索"
+            },
+            {
+              "idiom_id": "18.5.2",
+              "idiom_text": "孜孜矻矻 kū",
+              "explanation": "勤勉不懈的样子"
+            },
+            {
+              "idiom_id": "18.5.3",
+              "idiom_text": "孜孜以求",
+              "explanation": "不知疲倦地探求"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "group_id": 19,
+      "group_title": "十九、正确做法",
+      "group_count": 0,
+      "subgroups": [
+        {
+          "subgroup_id": "19.1",
+          "subgroup_title": "一",
+          "subgroup_name": "分析问题\n",
+          "idioms": [
+            {
+              "idiom_id": "19.1.1",
+              "idiom_text": "条分缕析",
+              "explanation": "一条条分析，分析得有条理，很细致 eg:给大家讲解消防知识~"
+            },
+            {
+              "idiom_id": "19.1.2",
+              "idiom_text": "抽丝剥茧",
+              "explanation": "分析事物极为细致，一步步很有层次（侧重有层次）"
+            },
+            {
+              "idiom_id": "19.1.3",
+              "idiom_text": "深入浅出",
+              "explanation": "讲话/讲解文章/讲道理~，很好理解"
+            }
+          ]
+        },
+        {
+          "subgroup_id": "19.2",
+          "subgroup_title": "二",
+          "subgroup_name": "抓住问题关键\n",
+          "idioms": [
+            {
+              "idiom_id": "19.2.1",
+              "idiom_text": "纲举目张",
+              "explanation": "抓住事物的主要环节、问题工作的重点，就可带动一切"
+            },
+            {
+              "idiom_id": "19.2.2",
+              "idiom_text": "提纲挈领",
+              "explanation": "抓住事物的关键部分或核心要点，用简洁明了的方式进行概述或表达 eg:课件要~，不要和盘托出"
+            },
+            {
+              "idiom_id": "19.2.3",
+              "idiom_text": "以一持万",
+              "explanation": "抓住问题的关键的环节或因素，把握核心部分的重要性"
+            }
+          ]
+        },
+        {
+          "subgroup_id": "19.3",
+          "subgroup_title": "三",
+          "subgroup_name": "向他人学习\n",
+          "idioms": [
+            {
+              "idiom_id": "19.3.1",
+              "idiom_text": "博采众长",
+              "explanation": "从多方面吸取各家的长处"
+            },
+            {
+              "idiom_id": "19.3.2",
+              "idiom_text": "见贤思齐",
+              "explanation": "见到有才德的人就想与他齐平"
+            }
+          ]
+        },
+        {
+          "subgroup_id": "19.4",
+          "subgroup_title": "四",
+          "subgroup_name": "踏实的做法\n",
+          "idioms": [
+            {
+              "idiom_id": "19.4.1",
+              "idiom_text": "量力而行",
+              "explanation": "有多大能力，做多大事"
+            },
+            {
+              "idiom_id": "19.4.2",
+              "idiom_text": "厚积薄发",
+              "explanation": "积累丰富的学问而不轻易表现出来（积累得越多，在后面才会更强烈地喷发出来 eg:我们学习就要~）"
+            },
+            {
+              "idiom_id": "19.4.3",
+              "idiom_text": "脚踏实地",
+              "explanation": "踏实，别有过高目标    eg:年轻人既要仰望星空，也要~"
+            }
+          ]
+        },
+        {
+          "subgroup_id": "19.5",
+          "subgroup_title": "五",
+          "subgroup_name": "勇于承担责任义务",
+          "idioms": [
+            {
+              "idiom_id": "19.5.1",
+              "idiom_text": "当仁不让",
+              "explanation": "我行我来!我优秀我上!   eg:这次比赛，体育委员~ 谁行谁上！XX 优秀，所以他当二不让"
+            },
+            {
+              "idiom_id": "19.5.2",
+              "idiom_text": "义不容辞",
+              "explanation": "道义上应该做，侧重良心、道义上"
+            },
+            {
+              "idiom_id": "19.5.3",
+              "idiom_text": "责无旁贷",
+              "explanation": "责任上应该做，侧重责任、职责上"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "group_id": 20,
+      "group_title": "二十、错误做法",
+      "group_count": 0,
+      "idioms": [
+        {
+          "idiom_id": "20.1",
+          "idiom_text": "过犹不及",
+          "explanation": "过了也不好！事情做得过了头，就跟做得不够一样"
+        },
+        {
+          "idiom_id": "20.2",
+          "idiom_text": "矫枉过正",
+          "explanation": "改错改的有点过分了，超过了应有的限度"
+        },
+        {
+          "idiom_id": "20.3",
+          "idiom_text": "于事无补",
+          "explanation": "做什么都没啥用、没啥帮助了"
+        },
+        {
+          "idiom_id": "20.4",
+          "idiom_text": "欲速不达",
+          "explanation": "违背规律、 一味求快，反而达不到目的（越想快，越不能到达）"
+        },
+        {
+          "idiom_id": "20.5",
+          "idiom_text": "作茧自缚",
+          "explanation": "自己束缚了自己或使自己陷入困境（自己给自己限制住了）"
+        },
+        {
+          "idiom_id": "20.6",
+          "idiom_text": "扬扬止沸",
+          "explanation": "不能解决根本问题的做法。反义词：釜底抽薪→从根本上解决问题"
+        },
+        {
+          "idiom_id": "20.7",
+          "idiom_text": "隔靴搔痒",
+          "explanation": "说话做事写文章不中肯，没有抓住关键（没解决实质问题）"
+        }
+      ]
+    },
+    {
+      "group_id": 21,
+      "group_title": "二十一、某些国家的错误做法",
+      "group_count": 0,
+      "subgroups": [
+        {
+          "subgroup_id": "21.1",
+          "subgroup_title": "一",
+          "subgroup_name": "不能这样做\n",
+          "idioms": [
+            {
+              "idiom_id": "21.1.1",
+              "idiom_text": "画地为牢",
+              "explanation": "①自己给自己设定一个范围，只让自己在某一个范围内活动，限制住自己的行动 ②常与“各自为政”连用eg:各地区不能各自为政、画地为牢"
+            },
+            {
+              "idiom_id": "21.1.2",
+              "idiom_text": "以邻为壑",
+              "explanation": "比喻把困难、灾祸推给别人（多宏观语境，国家、城市、地区等）eg:日本把核污水排到了太平洋，~"
+            },
+            {
+              "idiom_id": "21.1.3",
+              "idiom_text": "穿凿附会",
+              "explanation": "把讲不通的或不相干的道理、事情硬扯在一起进行解释 eg:美国把香港国安法与受蛊惑年轻人的不当行为扯到一起，妖魔化国安法，~"
+            },
+            {
+              "idiom_id": "21.1.4",
+              "idiom_text": "亦步亦趋",
+              "explanation": "缺乏主见，任何事都模仿、追随他人（侧重行动）eg:美国做啥,澳大利亚也做,~"
+            }
+          ]
+        },
+        {
+          "subgroup_id": "21.2",
+          "subgroup_title": "二",
+          "subgroup_name": "旁观、得利\n",
+          "idioms": [
+            {
+              "idiom_id": "21.2.1",
+              "idiom_text": "隔岸观火",
+              "explanation": "对于别人的急难不加以救助，而采取看热闹的态度（有危险了还看） eg:俄乌冲突,美国~"
+            },
+            {
+              "idiom_id": "21.2.2",
+              "idiom_text": "置身事外",
+              "explanation": "书面，局内人；把自己放在事情之外，毫不关心 eg:网约车和客户出现争端,网约车平台不能~"
+            },
+            {
+              "idiom_id": "21.2.3",
+              "idiom_text": "袖手旁观",
+              "explanation": "局外人，侧重从旁边看 eg:中方没有~"
+            },
+            {
+              "idiom_id": "21.2.4",
+              "idiom_text": "作壁上观",
+              "explanation": "①原指双方交战，自己旁观 ②后比喻站在一旁看着，不动手帮忙（偏中性）eg:①俄乌冲突，美国~ ②这场足球比赛 xx 上场吃了红牌，所以这场只能~（只能坐在边上看了）（中性）"
+            },
+            {
+              "idiom_id": "21.2.5",
+              "idiom_text": "坐收渔利",
+              "explanation": "第三方获得利益（鹬蚌相争渔翁得利）eg:俄乌冲突,美国卖武器,~。"
+            },
+            {
+              "idiom_id": "21.2.6",
+              "idiom_text": "坐享其成",
+              "explanation": "自己不出力而享受别人取得的成果 eg:我们年轻人也要为社会主义添砖加瓦，不能~"
+            }
+          ]
+        },
+        {
+          "subgroup_id": "21.3",
+          "subgroup_title": "三",
+          "subgroup_name": "过度开发\n",
+          "idioms": [
+            {
+              "idiom_id": "21.3.1",
+              "idiom_text": "竭泽而渔",
+              "explanation": "只顾今天不顾明天，只顾眼前不顾长远。语境：与资源开采有关"
+            },
+            {
+              "idiom_id": "21.3.2",
+              "idiom_text": "杀鸡取卵",
+              "explanation": "只顾今天不顾明天，只顾眼前不顾长远。"
+            },
+            {
+              "idiom_id": "21.3.3",
+              "idiom_text": "寅吃印粮",
+              "explanation": "常用在经济建设，早花钱，提前花钱（侧重由于有困难而提前预支）eg:英国财政亏空归咎于~"
+            },
+            {
+              "idiom_id": "21.3.4",
+              "idiom_text": "饮鸩止渴",
+              "explanation": "错误的、有害的方法解决面临的困难，而不顾后果 eg:台湾以美谋独，~ （和竭泽而渔、杀鸡取卵 相比程度更重，递进，今天活不活都不管了!连命都不要了！）"
+            },
+            {
+              "idiom_id": "21.3.5",
+              "idiom_text": "急功近利",
+              "explanation": "着急成功，贪图眼前的成效和利益 eg:政府~"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "group_id": 22,
+      "group_title": "二十二、国家安定与动荡",
+      "group_count": 0,
+      "subgroups": [
+        {
+          "subgroup_id": "22.1",
+          "subgroup_title": "一",
+          "subgroup_name": "生活不如意\n",
+          "idioms": [
+            {
+              "idiom_id": "22.1.1",
+              "idiom_text": "颠沛流离",
+              "explanation": "形容生活困苦，流落异乡，无安身之处（可指人/物）"
+            },
+            {
+              "idiom_id": "22.1.2",
+              "idiom_text": "流离失所",
+              "explanation": "到处流浪，没有安身的地方，未必是离开家乡（多指因灾荒、战乱导致的失去居所）"
+            },
+            {
+              "idiom_id": "22.1.3",
+              "idiom_text": "背井离乡",
+              "explanation": "被迫/主动离开家乡到外地生活工作"
+            },
+            {
+              "idiom_id": "22.1.4",
+              "idiom_text": "民不聊生",
+              "explanation": "国家出现困难、人民生活极端困苦，多形容整体社会环境"
+            }
+          ]
+        },
+        {
+          "subgroup_id": "22.2",
+          "subgroup_title": "二",
+          "subgroup_name": "社会安定\n",
+          "idioms": [
+            {
+              "idiom_id": "22.2.1",
+              "idiom_text": "安居乐业",
+              "explanation": "百姓安定愉快地生活和劳动"
+            },
+            {
+              "idiom_id": "22.2.2",
+              "idiom_text": "海晏河清",
+              "explanation": "天下太平"
+            },
+            {
+              "idiom_id": "22.2.3",
+              "idiom_text": "安土重迁",
+              "explanation": "中国农耕文明的特性：安于本乡本土，不愿随意迁移"
+            },
+            {
+              "idiom_id": "22.2.4",
+              "idiom_text": "国泰民安",
+              "explanation": "国家太平，人民生活安定"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "group_id": 23,
+      "group_title": "二十三、国际国内关系",
+      "group_count": 0,
+      "subgroups": [
+        {
+          "subgroup_id": "23.1",
+          "subgroup_title": "一",
+          "subgroup_name": "同呼吸共命运\n",
+          "idioms": [
+            {
+              "idiom_id": "23.1.1",
+              "idiom_text": "休戚与共",
+              "explanation": "忧喜祸福彼此共同承担，关系密切同甘共苦 eg:夫妻~"
+            },
+            {
+              "idiom_id": "23.1.2",
+              "idiom_text": "休戚相关",
+              "explanation": "关系密切，利害相关"
+            },
+            {
+              "idiom_id": "23.1.3",
+              "idiom_text": "息息相关",
+              "explanation": "有关，没有“休戚与共、休戚相关”关系那么密切，那么共命运"
+            }
+          ]
+        },
+        {
+          "subgroup_id": "23.2",
+          "subgroup_title": "二",
+          "subgroup_name": "融洽和谐\n",
+          "idioms": [
+            {
+              "idiom_id": "23.2.1",
+              "idiom_text": "同舟共济",
+              "explanation": "同乘一条船过河，齐心协力共同面对困难"
+            },
+            {
+              "idiom_id": "23.2.2",
+              "idiom_text": "同心同德",
+              "explanation": "团结一条心"
+            },
+            {
+              "idiom_id": "23.2.3",
+              "idiom_text": "和衷共济",
+              "explanation": "团结一心，共同面对困难"
+            },
+            {
+              "idiom_id": "23.2.4",
+              "idiom_text": "水乳交融",
+              "explanation": "①侧重融合，关系融洽、联系紧密 ②语境：产业、文化 互联网+（融合）"
+            },
+            {
+              "idiom_id": "23.2.5",
+              "idiom_text": "相濡以沫",
+              "explanation": "困境中用微薄的力量互相帮助"
+            }
+          ]
+        },
+        {
+          "subgroup_id": "23.3",
+          "subgroup_title": "三",
+          "subgroup_name": "和邻居的关系\n",
+          "idioms": [
+            {
+              "idiom_id": "23.3.1",
+              "idiom_text": "守望相助",
+              "explanation": "彼此关照，互相帮助，共同面对困难"
+            },
+            {
+              "idiom_id": "23.3.2",
+              "idiom_text": "一衣带水",
+              "explanation": "①仅隔一水，挨得很近 eg:福建和台湾~ ②表友好的时候 eg:中日~，友好邻邦"
+            },
+            {
+              "idiom_id": "23.3.3",
+              "idiom_text": "唇齿相依",
+              "explanation": "关系极其密切并互相依存 eg:抗美援朝时期,中国与朝鲜~"
+            },
+            {
+              "idiom_id": "23.3.4",
+              "idiom_text": "以邻为壑",
+              "explanation": "把困难、灾祸推给别人（多宏观语境，国家、城市、地区等）eg:日本把核污水排到了太平洋，~"
+            }
+          ]
+        },
+        {
+          "subgroup_id": "23.4",
+          "subgroup_title": "四",
+          "subgroup_name": "世界局势\n",
+          "idioms": [
+            {
+              "idiom_id": "23.4.1",
+              "idiom_text": "波诡云谲",
+              "explanation": "局势不可捉摸，形容政治斗争、国际局势、战争局势、宫廷内的勾心斗角"
+            },
+            {
+              "idiom_id": "23.4.2",
+              "idiom_text": "风云变幻",
+              "explanation": "强调世界局势的一种变化,局势多变和复杂"
+            },
+            {
+              "idiom_id": "23.4.3",
+              "idiom_text": "纵横捭阖",
+              "explanation": "在政治、外交上运用手段进行联合或分化"
+            }
+          ]
+        },
+        {
+          "subgroup_id": "23.5",
+          "subgroup_title": "五",
+          "subgroup_name": "坏人坏事\n",
+          "idioms": [
+            {
+              "idiom_id": "23.5.1",
+              "idiom_text": "沆壑一气",
+              "explanation": "两个坏人,臭味相投的人结合在一起 eg:不良商贩和失职市场管理方~"
+            },
+            {
+              "idiom_id": "23.5.2",
+              "idiom_text": "同流合污",
+              "explanation": "一个好人一个坏人，跟坏人一起干坏事 eg:中国是绝不会与霸权主义~"
+            },
+            {
+              "idiom_id": "23.5.3",
+              "idiom_text": "独善其身",
+              "explanation": "只顾自己,不顾别人。eg:现在我们是命运共同体,哪个国家都不能~"
+            },
+            {
+              "idiom_id": "23.5.4",
+              "idiom_text": "明哲保身",
+              "explanation": "一种处事的态度:就为保全自己,该做的不做。用于公务员、领导干部"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "group_id": 24,
+      "group_title": "二十四、政府优秀做法",
+      "group_count": 0,
+      "subgroups": [
+        {
+          "subgroup_id": "24.1",
+          "subgroup_title": "一",
+          "subgroup_name": "有针对性\n",
+          "idioms": [
+            {
+              "idiom_id": "24.1.1",
+              "idiom_text": "因地制宜",
+              "explanation": "不同地区有不同的做法，侧重“地”（不同城市/地区要选择合适的做法）"
+            },
+            {
+              "idiom_id": "24.1.2",
+              "idiom_text": "量体裁衣",
+              "explanation": "侧重 1 对 1 个性化服务"
+            },
+            {
+              "idiom_id": "24.1.3",
+              "idiom_text": "对症下药",
+              "explanation": "针对不同的问题,给不同的方法"
+            },
+            {
+              "idiom_id": "24.1.4",
+              "idiom_text": "有的放矢",
+              "explanation": "有针对性，有目的性"
+            }
+          ]
+        },
+        {
+          "subgroup_id": "24.2",
+          "subgroup_title": "二",
+          "subgroup_name": "发挥职能\n",
+          "idioms": [
+            {
+              "idiom_id": "24.2.1",
+              "idiom_text": "因势利导",
+              "explanation": "①顺着事物发展趋势加以引导，在关键处引导。语境：国家/政府/家长/老师~ ②考字面意思：根据地势水流因势利导eg:都江堰~"
+            },
+            {
+              "idiom_id": "24.2.2",
+              "idiom_text": "保驾护航",
+              "explanation": "①保护某事物能让其能正常发展 ②语境：政府对企业~（发展、营商环境、安全...）"
+            },
+            {
+              "idiom_id": "24.2.3",
+              "idiom_text": "穿针引线",
+              "explanation": "比喻从中联系、拉拢，将 A 和 B 联系在一起 eg:政府在两个企业中间~"
+            }
+          ]
+        },
+        {
+          "subgroup_id": "24.3",
+          "subgroup_title": "三",
+          "subgroup_name": "正确做法\n",
+          "idioms": [
+            {
+              "idiom_id": "24.3.1",
+              "idiom_text": "广开言路",
+              "explanation": "让下面有表达自己想法、观点、建议的渠道 eg:政府~"
+            },
+            {
+              "idiom_id": "24.3.2",
+              "idiom_text": "集思广益",
+              "explanation": "广泛的讨论,集体进行思考，大家一起想怎么办"
+            },
+            {
+              "idiom_id": "24.3.3",
+              "idiom_text": "风清气正",
+              "explanation": "不是做法，搭配政治环境、政治生态、可以形容网络空间"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "group_id": 25,
+      "group_title": "二十五、合理规划",
+      "group_count": 0,
+      "idioms": [
+        {
+          "idiom_id": "25.1",
+          "idiom_text": "开源节流",
+          "explanation": "并列结构：开源和节流。多挣钱少开支"
+        },
+        {
+          "idiom_id": "25.2",
+          "idiom_text": "降本增效",
+          "explanation": "一般用于企业，降低成本、增加效益"
+        },
+        {
+          "idiom_id": "25.3",
+          "idiom_text": "精打细算",
+          "explanation": "①精密地计划，详细地计算 ②语境：水资源、其他资源"
+        },
+        {
+          "idiom_id": "25.4",
+          "idiom_text": "细水长流",
+          "explanation": "节约使用，不要一次性把它用没了 eg:过日子就得~"
+        },
+        {
+          "idiom_id": "25.5",
+          "idiom_text": "量入为出",
+          "explanation": "根据收入确定支出"
+        }
+      ]
+    },
+    {
+      "group_id": 26,
+      "group_title": "二十六、政策措施的评价",
+      "group_count": 0,
+      "subgroups": [
+        {
+          "subgroup_id": "26.1",
+          "subgroup_title": "一",
+          "subgroup_name": "有效果\n",
+          "idioms": [
+            {
+              "idiom_id": "26.1.1",
+              "idiom_text": "立竿见影",
+              "explanation": "见效快，常搭配：立竿见影的效果"
+            },
+            {
+              "idiom_id": "26.1.2",
+              "idiom_text": "一劳永逸",
+              "explanation": "辛苦一次办好，以后就不费力了（干一次就完事儿）"
+            },
+            {
+              "idiom_id": "26.1.3",
+              "idiom_text": "行之有效",
+              "explanation": "已经证明过、已经实施过的方法/做法（行为已经发生），被证实很有效"
+            },
+            {
+              "idiom_id": "26.1.4",
+              "idiom_text": "一蹴而就",
+              "explanation": "强调容易简单,一下子就成功，多用于否定句"
+            },
+            {
+              "idiom_id": "26.1.5",
+              "idiom_text": "一步登天",
+              "explanation": "①一下达到很高的境界、程度 ②一下子爬上高位(多贬义)"
+            }
+          ]
+        },
+        {
+          "subgroup_id": "26.2",
+          "subgroup_title": "二",
+          "subgroup_name": "解决问题\n",
+          "idioms": [
+            {
+              "idiom_id": "26.2.1",
+              "idiom_text": "迎刃而解",
+              "explanation": "主要问题解决了，其他问题就容易解决(常搭配问题)做法+……问题+迎刃而解"
+            },
+            {
+              "idiom_id": "26.2.2",
+              "idiom_text": "事半功倍",
+              "explanation": "投入少，见效大"
+            },
+            {
+              "idiom_id": "26.2.3",
+              "idiom_text": "釜底抽薪",
+              "explanation": "从根本上解决问题，反义词：扬汤止沸"
+            },
+            {
+              "idiom_id": "26.2.4",
+              "idiom_text": "标本兼治",
+              "explanation": "从枝节和根本、表面和根本方面都得到治理"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "group_id": 27,
+      "group_title": "二十七、成功与失败",
+      "group_count": 0,
+      "subgroups": [
+        {
+          "subgroup_id": "27.1",
+          "subgroup_title": "一",
+          "subgroup_name": "轻松成功\n",
+          "idioms": [
+            {
+              "idiom_id": "27.1.1",
+              "idiom_text": "触手可及",
+              "explanation": "形容距离很近，伸手就能够到"
+            },
+            {
+              "idiom_id": "27.1.2",
+              "idiom_text": "唾手可得",
+              "explanation": "极容易得到"
+            },
+            {
+              "idiom_id": "27.1.3",
+              "idiom_text": "手到擒来",
+              "explanation": "侧重把握，做事毫不费力或很有把握"
+            },
+            {
+              "idiom_id": "27.1.4",
+              "idiom_text": "信手拈来",
+              "explanation": "①字面意思:容易获得（形容做事不费力）②比喻引申义：引经据典信手拈来（多用于引用资料、数据、典故）"
+            },
+            {
+              "idiom_id": "27.1.5",
+              "idiom_text": "游刃有余",
+              "explanation": "技术高超，经验足，轻松解决问题    近义词：应付自如"
+            }
+          ]
+        },
+        {
+          "subgroup_id": "27.2",
+          "subgroup_title": "二",
+          "subgroup_name": "没能成功：\n",
+          "idioms": [
+            {
+              "idiom_id": "27.2.1",
+              "idiom_text": "束手无策",
+              "explanation": "手被捆住，无法应对。遇到问题没有解决办法"
+            },
+            {
+              "idiom_id": "27.2.2",
+              "idiom_text": "一筹莫展",
+              "explanation": "一点计策也施展不出，形容一点办法都没有"
+            },
+            {
+              "idiom_id": "27.2.3",
+              "idiom_text": "功亏一篑",
+              "explanation": "接近成功的时候失败了"
+            },
+            {
+              "idiom_id": "27.2.4",
+              "idiom_text": "事与愿违",
+              "explanation": "事实与主观愿望相反，侧重违背、没达到预期"
+            },
+            {
+              "idiom_id": "27.2.5",
+              "idiom_text": "适得其反",
+              "explanation": "结果与愿望预期恰好相反，侧重和预期相反（取得反面结果）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "group_id": 28,
+      "group_title": "二十八、领导力",
+      "group_count": 0,
+      "subgroups": [
+        {
+          "subgroup_id": "28.1",
+          "subgroup_title": "一",
+          "subgroup_name": "眼界高考虑全\n",
+          "idioms": [
+            {
+              "idiom_id": "28.1.1",
+              "idiom_text": "高屋建瓴",
+              "explanation": "站得高、有高度 eg:领导人讲话高屋建瓴有高度,思想深邃有深度,内涵丰富有广度。"
+            },
+            {
+              "idiom_id": "28.1.2",
+              "idiom_text": "高瞻远瞩",
+              "explanation": "站得高、看得远、有远见（更宏观）"
+            },
+            {
+              "idiom_id": "28.1.3",
+              "idiom_text": "深谋远虑",
+              "explanation": "谋划的很深，考虑得长远"
+            },
+            {
+              "idiom_id": "28.1.4",
+              "idiom_text": "审时度势",
+              "explanation": "抓住时机，把握形势"
+            }
+          ]
+        },
+        {
+          "subgroup_id": "28.2",
+          "subgroup_title": "二",
+          "subgroup_name": "筹划全面\n",
+          "idioms": [
+            {
+              "idiom_id": "28.2.1",
+              "idiom_text": "运筹帷幄",
+              "explanation": "（打仗时）在后方指挥、谋划"
+            },
+            {
+              "idiom_id": "28.2.2",
+              "idiom_text": "统筹兼顾",
+              "explanation": "考虑很全面,各个方面都能兼顾得到。"
+            }
+          ]
+        },
+        {
+          "subgroup_id": "28.3",
+          "subgroup_title": "三",
+          "subgroup_name": "以身作则\n",
+          "idioms": [
+            {
+              "idiom_id": "28.3.1",
+              "idiom_text": "身体力行",
+              "explanation": "亲自做,亲身体验,亲自执行。"
+            },
+            {
+              "idiom_id": "28.3.2",
+              "idiom_text": "亲力亲为",
+              "explanation": "亲自参与"
+            },
+            {
+              "idiom_id": "28.3.3",
+              "idiom_text": "事必躬亲",
+              "explanation": "凡事都要自己亲自去做"
+            },
+            {
+              "idiom_id": "28.3.4",
+              "idiom_text": "克己奉公",
+              "explanation": "①克制私心，一心为公 ②常和廉洁放在一起用 eg:克己奉公、清廉自守"
+            },
+            {
+              "idiom_id": "28.3.5",
+              "idiom_text": "以身作则",
+              "explanation": "自己以行动给大家做出榜样"
+            },
+            {
+              "idiom_id": "28.3.6",
+              "idiom_text": "上行下效",
+              "explanation": "指上面的人怎么做，下面的人就跟着怎么干"
+            },
+            {
+              "idiom_id": "28.3.7",
+              "idiom_text": "事无巨细",
+              "explanation": "事情不分大小，啥事儿都过问/操心/想得到"
+            }
+          ]
+        },
+        {
+          "subgroup_id": "28.4",
+          "subgroup_title": "四",
+          "subgroup_name": "始终坚持\n",
+          "idioms": [
+            {
+              "idiom_id": "28.4.1",
+              "idiom_text": "一以贯之",
+              "explanation": "精神、理念从始至终都不会改变 eg:中央八项规定要一以贯之地进行"
+            },
+            {
+              "idiom_id": "28.4.2",
+              "idiom_text": "坚定不移",
+              "explanation": "毫不动摇，不放弃，侧重坚定不移走道路 eg:坚定不移地走社会主义道路"
+            },
+            {
+              "idiom_id": "28.4.3",
+              "idiom_text": "矢志不渝",
+              "explanation": "立下志愿，绝不改变。eg:~跟党走、~的爱情"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "group_id": 29,
+      "group_title": "二十九、正义精神和做法",
+      "group_count": 0,
+      "subgroups": [
+        {
+          "subgroup_id": "29.1",
+          "subgroup_title": "一",
+          "subgroup_name": "形容英勇无畏\n",
+          "idioms": [
+            {
+              "idiom_id": "29.1.1",
+              "idiom_text": "前赴后继",
+              "explanation": "战争时代，前面的人倒下了、后面继续跟上去。英勇斗争，不怕牺牲。"
+            },
+            {
+              "idiom_id": "29.1.2",
+              "idiom_text": "视死如归",
+              "explanation": "不怕牺牲生命"
+            },
+            {
+              "idiom_id": "29.1.3",
+              "idiom_text": "大义凛然",
+              "explanation": "庄严不可侵犯、正义的样子"
+            },
+            {
+              "idiom_id": "29.1.4",
+              "idiom_text": "勇往直前",
+              "explanation": "勇敢一直前进"
+            },
+            {
+              "idiom_id": "29.1.5",
+              "idiom_text": "挺身而出",
+              "explanation": "面对艰难或危险，勇敢地站出来!"
+            }
+          ]
+        },
+        {
+          "subgroup_id": "29.2",
+          "subgroup_title": "二",
+          "subgroup_name": "形容振作奋发",
+          "idioms": [
+            {
+              "idiom_id": "29.2.1",
+              "idiom_text": "踔厉奋发",
+              "explanation": "精神振奋，斗志昂扬"
+            },
+            {
+              "idiom_id": "29.2.2",
+              "idiom_text": "笃行不怠",
+              "explanation": "切实履行自己所学的内容，不感到倦怠"
+            },
+            {
+              "idiom_id": "29.2.3",
+              "idiom_text": "赓续前行",
+              "explanation": "不断地延续和发展，保持进步的态度和生活方式"
+            },
+            {
+              "idiom_id": "29.2.4",
+              "idiom_text": "奋楫争先",
+              "explanation": "奋力划动船桨的人争先恐后走在前头"
+            }
+          ]
+        },
+        {
+          "subgroup_id": "29.3",
+          "subgroup_title": "三",
+          "subgroup_name": "形容克服困难前进\n",
+          "idioms": [
+            {
+              "idiom_id": "29.3.1",
+              "idiom_text": "砥砺前行",
+              "explanation": "经历磨练，克服困难，往前进步"
+            },
+            {
+              "idiom_id": "29.3.2",
+              "idiom_text": "勇毅前行",
+              "explanation": "勇敢且坚毅地往前或发展"
+            },
+            {
+              "idiom_id": "29.3.3",
+              "idiom_text": "一鼓作气",
+              "explanation": "趁劲头大时鼓起干劲， 一口气把工作做完"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "group_id": 30,
+      "group_title": "三十、干部易犯错误",
+      "group_count": 0,
+      "subgroups": [
+        {
+          "subgroup_id": "30.1",
+          "subgroup_title": "一",
+          "subgroup_name": "爱慕名利不务实\n",
+          "idioms": [
+            {
+              "idiom_id": "30.1.1",
+              "idiom_text": "好高骛远",
+              "explanation": "不切实际地追求过高、过远的目标"
+            },
+            {
+              "idiom_id": "30.1.2",
+              "idiom_text": "好大喜功",
+              "explanation": "追求做大事、大成绩"
+            },
+            {
+              "idiom_id": "30.1.3",
+              "idiom_text": "沽名钓誉",
+              "explanation": "动宾结构,用某种手段获取名誉(贬义)"
+            },
+            {
+              "idiom_id": "30.1.4",
+              "idiom_text": "附庸风雅",
+              "explanation": "装文化人，贬义词"
+            }
+          ]
+        },
+        {
+          "subgroup_id": "30.2",
+          "subgroup_title": "二",
+          "subgroup_name": "只顾自己、自扫门前雪\n",
+          "idioms": [
+            {
+              "idiom_id": "30.2.1",
+              "idiom_text": "独善其身",
+              "explanation": "①只顾自己，不顾别人 ②语境要素：个人与外部的对比、保全保护（中性）"
+            },
+            {
+              "idiom_id": "30.2.2",
+              "idiom_text": "明哲保身",
+              "explanation": "一种处事的态度:就为保全自己，该做的不做"
+            }
+          ]
+        },
+        {
+          "subgroup_id": "30.3",
+          "subgroup_title": "三",
+          "subgroup_name": "虚伪敷衍谄媚\n",
+          "idioms": [
+            {
+              "idiom_id": "30.3.1",
+              "idiom_text": "虚与委蛇",
+              "explanation": "对人虚情假意，敷衍应付 eg:面对坏人～寻找机会逃跑"
+            },
+            {
+              "idiom_id": "30.3.2",
+              "idiom_text": "委曲求全",
+              "explanation": "委屈自己,以求保全"
+            },
+            {
+              "idiom_id": "30.3.3",
+              "idiom_text": "敷衍塞责",
+              "explanation": "做事马虎，应付一下以搪塞/推卸/不负责任（应付了事）"
+            },
+            {
+              "idiom_id": "30.3.4",
+              "idiom_text": "曲意逢迎",
+              "explanation": "违背自己本意，迎合或讨好别人"
+            },
+            {
+              "idiom_id": "30.3.5",
+              "idiom_text": "投其所好",
+              "explanation": "迎合别人的喜好，中性"
+            },
+            {
+              "idiom_id": "30.3.6",
+              "idiom_text": "阿谀奉承",
+              "explanation": "说好话，讨好别人"
+            }
+          ]
+        },
+        {
+          "subgroup_id": "30.4",
+          "subgroup_title": "四",
+          "subgroup_name": "错误政策\n",
+          "idioms": [
+            {
+              "idiom_id": "30.4.1",
+              "idiom_text": "兴师动众",
+              "explanation": "动用很多人力做某件事"
+            },
+            {
+              "idiom_id": "30.4.2",
+              "idiom_text": "劳民伤财",
+              "explanation": "①既使人民劳苦，又耗费钱财    ②滥用人力物力"
+            },
+            {
+              "idiom_id": "30.4.3",
+              "idiom_text": "朝令夕改",
+              "explanation": "①政策无常，改的太快了   ②主张、办法等经常改变"
+            }
+          ]
+        },
+        {
+          "subgroup_id": "30.5",
+          "subgroup_title": "五",
+          "subgroup_name": "不认真\n",
+          "idioms": [
+            {
+              "idiom_id": "30.5.1",
+              "idiom_text": "粗枝大叶",
+              "explanation": "工作粗糙，不认真细致"
+            },
+            {
+              "idiom_id": "30.5.2",
+              "idiom_text": "大而化之",
+              "explanation": "①做事大大咧咧，不谨慎，不细致 ②大而化之易，具体而微难。"
+            },
+            {
+              "idiom_id": "30.5.3",
+              "idiom_text": "具体而微",
+              "explanation": "小但是全（麻雀虽小，五脏俱全）"
+            }
+          ]
+        },
+        {
+          "subgroup_id": "30.6",
+          "subgroup_title": "六",
+          "subgroup_name": "其他错误\n",
+          "idioms": [
+            {
+              "idiom_id": "30.6.1",
+              "idiom_text": "哗众取宠",
+              "explanation": "故意做一些吸引人眼球的事/言辞，让大家注意"
+            },
+            {
+              "idiom_id": "30.6.2",
+              "idiom_text": "重蹈覆辙",
+              "explanation": "不吸取失败的教训，重犯以前的错误"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "group_id": 31,
+      "group_title": "三十一、对待错误的态度",
+      "group_count": 0,
+      "subgroups": [
+        {
+          "subgroup_id": "31.1",
+          "subgroup_title": "一",
+          "subgroup_name": "谦虚接受建议\n",
+          "idioms": [
+            {
+              "idiom_id": "31.1.1",
+              "idiom_text": "从谏如流",
+              "explanation": "乐于接受别人的批评意见"
+            },
+            {
+              "idiom_id": "31.1.2",
+              "idiom_text": "从善如流",
+              "explanation": "形容能迅速地接受别人的好意见。"
+            },
+            {
+              "idiom_id": "31.1.3",
+              "idiom_text": "闻过则喜",
+              "explanation": "听到别人批评自己的缺点或错误，表示欢迎和高兴。指虚心接受意见"
+            },
+            {
+              "idiom_id": "31.1.4",
+              "idiom_text": "虚怀若谷",
+              "explanation": "十分谦虚，能容纳别人的意见"
+            }
+          ]
+        },
+        {
+          "subgroup_id": "31.2",
+          "subgroup_title": "二",
+          "subgroup_name": "遮掩错误\n",
+          "idioms": [
+            {
+              "idiom_id": "31.2.1",
+              "idiom_text": "文过饰非",
+              "explanation": "①两个动宾短语 ②用漂亮的言词掩饰自己的过失和错误 ③常与“掩饰缺点”连用 eg:不断检视自己，不掩饰缺点，不~"
+            },
+            {
+              "idiom_id": "31.2.2",
+              "idiom_text": "怙恶不悛",
+              "explanation": "屡教不改，坚持作恶，不肯悔改"
+            },
+            {
+              "idiom_id": "31.2.3",
+              "idiom_text": "欲盖弥彰",
+              "explanation": "想掩盖坏事的真相，结果反而更明显地暴露出来"
+            }
+          ]
+        },
+        {
+          "subgroup_id": "31.3",
+          "subgroup_title": "三",
+          "subgroup_name": "不考虑别人建议\n",
+          "idioms": [
+            {
+              "idiom_id": "31.3.1",
+              "idiom_text": "刚愎自用",
+              "explanation": "十分固执自信，不考虑别人的意见"
+            },
+            {
+              "idiom_id": "31.3.2",
+              "idiom_text": "固执己见",
+              "explanation": "①顽固地坚持自己的意见/看法，不肯改变（中性） ②前面得有主语，谁固执己见"
+            }
+          ]
+        },
+        {
+          "subgroup_id": "31.4",
+          "subgroup_title": "四",
+          "subgroup_name": "彻底改变\n",
+          "idioms": [
+            {
+              "idiom_id": "31.4.1",
+              "idiom_text": "洗心革面",
+              "explanation": "彻底悔改，重新做人"
+            },
+            {
+              "idiom_id": "31.4.2",
+              "idiom_text": "脱胎换骨",
+              "explanation": "真的改变了，真的换了一个人"
+            },
+            {
+              "idiom_id": "31.4.3",
+              "idiom_text": "改头换面",
+              "explanation": "①换汤不换药（只改变形式,而内容/实质不变）②改变面目，换了个样 eg:老旧小区～"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "group_id": 32,
+      "group_title": "三十二、改变与不变",
+      "group_count": 0,
+      "subgroups": [
+        {
+          "subgroup_id": "32.1",
+          "subgroup_title": "一",
+          "subgroup_name": "不变\n",
+          "idioms": [
+            {
+              "idiom_id": "32.1.1",
+              "idiom_text": "一成不变",
+              "explanation": "事物一经形成就不再改变，多用于否定句"
+            },
+            {
+              "idiom_id": "32.1.2",
+              "idiom_text": "亘古不变",
+              "explanation": "从古至今永远也不会改变，多褒义 eg:真理"
+            }
+          ]
+        },
+        {
+          "subgroup_id": "32.2",
+          "subgroup_title": "二",
+          "subgroup_name": "改变\n",
+          "idioms": [
+            {
+              "idiom_id": "32.2.1",
+              "idiom_text": "改弦更张",
+              "explanation": "改革制度，变更计划、方法"
+            },
+            {
+              "idiom_id": "32.2.2",
+              "idiom_text": "改弦易辙",
+              "explanation": "改变方向或做法"
+            }
+          ]
+        },
+        {
+          "subgroup_id": "32.3",
+          "subgroup_title": "三",
+          "subgroup_name": "变化多，快\n",
+          "idioms": [
+            {
+              "idiom_id": "32.3.1",
+              "idiom_text": "变幻莫测",
+              "explanation": "变化奇特，侧重不可预测"
+            },
+            {
+              "idiom_id": "32.3.2",
+              "idiom_text": "瞬息万变",
+              "explanation": "变化很多很快，侧重变化快"
+            }
+          ]
+        },
+        {
+          "subgroup_id": "32.4",
+          "subgroup_title": "四",
+          "subgroup_name": "长时间繁荣昌盛\n",
+          "idioms": [
+            {
+              "idiom_id": "32.4.1",
+              "idiom_text": "经久不衰",
+              "explanation": "经历很久而不衰败"
+            },
+            {
+              "idiom_id": "32.4.2",
+              "idiom_text": "经久不息",
+              "explanation": "侧重掌声，掌声不停"
+            },
+            {
+              "idiom_id": "32.4.3",
+              "idiom_text": "长盛不衰",
+              "explanation": "兴盛不衰败"
+            }
+          ]
+        },
+        {
+          "subgroup_id": "32.5",
+          "subgroup_title": "五",
+          "subgroup_name": "变化巨大\n",
+          "idioms": [
+            {
+              "idiom_id": "32.5.1",
+              "idiom_text": "今非昔比",
+              "explanation": "变化大，现在比过去好"
+            },
+            {
+              "idiom_id": "32.5.2",
+              "idiom_text": "天翻地覆",
+              "explanation": "①变化巨大 ②闹得很凶"
+            },
+            {
+              "idiom_id": "32.5.3",
+              "idiom_text": "时过境迁",
+              "explanation": "两个主谓短语。时间过去了，环境或情况也随之改变"
+            },
+            {
+              "idiom_id": "32.5.4",
+              "idiom_text": "沧海桑田",
+              "explanation": "世事变化非常大，强调变化大"
+            },
+            {
+              "idiom_id": "32.5.5",
+              "idiom_text": "斗转星移",
+              "explanation": "强调时间、岁月的流逝"
+            },
+            {
+              "idiom_id": "32.5.6",
+              "idiom_text": "白云苍狗",
+              "explanation": "世事变化无常"
+            },
+            {
+              "idiom_id": "32.5.7",
+              "idiom_text": "恍如隔世",
+              "explanation": "仿佛隔了一个时代，因人事或景物变化很大而引起的感触"
+            }
+          ]
+        },
+        {
+          "subgroup_id": "32.6",
+          "subgroup_title": "六",
+          "subgroup_name": "难以改变\n",
+          "idioms": [
+            {
+              "idiom_id": "32.6.1",
+              "idiom_text": "根深蒂固",
+              "explanation": "观点思想,不好改变"
+            },
+            {
+              "idiom_id": "32.6.2",
+              "idiom_text": "积习难改",
+              "explanation": "长久习惯，不好改变"
+            },
+            {
+              "idiom_id": "32.6.3",
+              "idiom_text": "积重难返",
+              "explanation": "侧重问题不好改变，时间久"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "group_id": 33,
+      "group_title": "三十三、顺势造势",
+      "group_count": 0,
+      "subgroups": [
+        {
+          "subgroup_id": "33.1",
+          "subgroup_title": "一",
+          "subgroup_name": "顺势\n",
+          "idioms": [
+            {
+              "idiom_id": "33.1.1",
+              "idiom_text": "顺势而为",
+              "explanation": "顺应形势做事情"
+            },
+            {
+              "idiom_id": "33.1.2",
+              "idiom_text": "大势所趋",
+              "explanation": "整个局势发展的方向  医疗反腐是大势所趋 动词+谓语(是)+大势所趋"
+            },
+            {
+              "idiom_id": "33.1.3",
+              "idiom_text": "势在必行",
+              "explanation": "客观形式决定必须这样做  医疗反腐势在必行 动词直接+势在必行"
+            },
+            {
+              "idiom_id": "33.1.4",
+              "idiom_text": "随波逐流",
+              "explanation": "随大流"
+            }
+          ]
+        },
+        {
+          "subgroup_id": "33.2",
+          "subgroup_title": "二",
+          "subgroup_name": "造势\n",
+          "idioms": [
+            {
+              "idiom_id": "33.2.1",
+              "idiom_text": "推波助澜",
+              "explanation": "推动、助长事物的声势及发展（可给好/坏事助力）中性"
+            },
+            {
+              "idiom_id": "33.2.2",
+              "idiom_text": "顺水推舟",
+              "explanation": "顺应某个趋势说话办事"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "group_id": 34,
+      "group_title": "三十四、自然会发生",
+      "group_count": 0,
+      "idioms": [
+        {
+          "idiom_id": "34.1",
+          "idiom_text": "理所当然",
+          "explanation": "从道理上讲，应该如此"
+        },
+        {
+          "idiom_id": "34.2",
+          "idiom_text": "顺理成章",
+          "explanation": "强调合乎逻辑"
+        },
+        {
+          "idiom_id": "34.3",
+          "idiom_text": "天经地义",
+          "explanation": "口语化 ①天地间理所当然而不能改变的道理 ②理所当然，不容置疑的问题"
+        },
+        {
+          "idiom_id": "34.4",
+          "idiom_text": "水到渠成",
+          "explanation": "条件到了自然会成功"
+        },
+        {
+          "idiom_id": "34.5",
+          "idiom_text": "自然而然",
+          "explanation": "自由发展，必然这样（自然会发生）"
+        },
+        {
+          "idiom_id": "34.6",
+          "idiom_text": "顺其自然",
+          "explanation": "顺着事物本来的性质自然发展（不加干涉自然会…）"
+        }
+      ]
+    },
+    {
+      "group_id": 35,
+      "group_title": "三十五、提早准备和补救",
+      "group_count": 0,
+      "subgroups": [
+        {
+          "subgroup_id": "35.1",
+          "subgroup_title": "一",
+          "subgroup_name": "前期准备\n",
+          "idioms": [
+            {
+              "idiom_id": "35.1.1",
+              "idiom_text": "未雨绸缪",
+              "explanation": "提前做准备"
+            },
+            {
+              "idiom_id": "35.1.2",
+              "idiom_text": "常备不懈",
+              "explanation": "一直准备着不懈怠，常用于消防、疫情防控、军事"
+            },
+            {
+              "idiom_id": "35.1.3",
+              "idiom_text": "防患未然",
+              "explanation": "侧重灾祸，在祸患还没有发生之前就进行防备"
+            },
+            {
+              "idiom_id": "35.1.4",
+              "idiom_text": "防微杜渐",
+              "explanation": "有微小苗头,不让其扩大。语境:森林灭火最好的方法是防微杜渐（不是防火用~,灭火用~）"
+            },
+            {
+              "idiom_id": "35.1.5",
+              "idiom_text": "居安思危",
+              "explanation": "强调有危患意识"
+            },
+            {
+              "idiom_id": "35.1.6",
+              "idiom_text": "有备无患",
+              "explanation": "有防备、准备,就不会有祸患(侧重结果)"
+            },
+            {
+              "idiom_id": "35.1.7",
+              "idiom_text": "曲突徙薪",
+              "explanation": "消除危险，做好准备"
+            }
+          ]
+        },
+        {
+          "subgroup_id": "35.2",
+          "subgroup_title": "二",
+          "subgroup_name": "准备得当没有忧虑\n— ",
+          "idioms": [
+            {
+              "idiom_id": "35.2.1",
+              "idiom_text": "高枕无忧",
+              "explanation": "垫高枕头睡觉，无所顾虑"
+            }
+          ]
+        },
+        {
+          "subgroup_id": "35.3",
+          "subgroup_title": "三",
+          "subgroup_name": "出现问题进行补救\n",
+          "idioms": [
+            {
+              "idiom_id": "35.3.1",
+              "idiom_text": "临渴掘井",
+              "explanation": "平时没有准备，事到临头才想办法"
+            },
+            {
+              "idiom_id": "35.3.2",
+              "idiom_text": "江心补漏",
+              "explanation": "船到江心才补漏洞。临到紧急关头才设法补救，为时已晚"
+            },
+            {
+              "idiom_id": "35.3.3",
+              "idiom_text": "亡羊补牢",
+              "explanation": "为时未晚/已晚，看语境 ①出了问题以后及时想法补救，以免继续受损失 ②出了问题才想法补救，已经太晚了"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "group_id": 36,
+      "group_title": "三十六、办公、管理相关",
+      "group_count": 0,
+      "subgroups": [
+        {
+          "subgroup_id": "36.1",
+          "subgroup_title": "一",
+          "subgroup_name": "形容工作开展的局面、形势不好\n",
+          "idioms": [
+            {
+              "idiom_id": "36.1.1",
+              "idiom_text": "尾大不掉",
+              "explanation": "①强调下属能力太强，使唤不动；②下属太多了，不好指挥"
+            },
+            {
+              "idiom_id": "36.1.2",
+              "idiom_text": "各行其是",
+              "explanation": "是：对的。各自按照各自认为对的去做。"
+            },
+            {
+              "idiom_id": "36.1.3",
+              "idiom_text": "各自为政",
+              "explanation": "①有点儿小团体，没有大局观 ②多形容工作、单位/部门间 eg:各个部门~，不相互配合"
+            },
+            {
+              "idiom_id": "36.1.4",
+              "idiom_text": "人浮于事",
+              "explanation": "强调人太多，人多活少"
+            }
+          ]
+        },
+        {
+          "subgroup_id": "36.2",
+          "subgroup_title": "二",
+          "subgroup_name": "形容人工作的状态\n",
+          "idioms": [
+            {
+              "idiom_id": "36.2.1",
+              "idiom_text": "投闲置散",
+              "explanation": "放在闲散的位置上，不被重用"
+            },
+            {
+              "idiom_id": "36.2.2",
+              "idiom_text": "如鱼得水",
+              "explanation": "找到适合发挥的环境"
+            },
+            {
+              "idiom_id": "36.2.3",
+              "idiom_text": "面面俱到",
+              "explanation": "各方面都照顾的很好"
+            },
+            {
+              "idiom_id": "36.2.4",
+              "idiom_text": "独当一面",
+              "explanation": "独自承担工作"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "group_id": 37,
+      "group_title": "三十七、空谈与虚幻",
+      "group_count": 0,
+      "subgroups": [
+        {
+          "subgroup_id": "37.1",
+          "subgroup_title": "一",
+          "subgroup_name": "不靠谱的做法\n",
+          "idioms": [
+            {
+              "idiom_id": "37.1.1",
+              "idiom_text": "纸上谈兵",
+              "explanation": "侧重指导理论不实践。空谈理论，不能解决问题"
+            },
+            {
+              "idiom_id": "37.1.2",
+              "idiom_text": "无根之木",
+              "explanation": "没有根据或基础"
+            },
+            {
+              "idiom_id": "37.1.3",
+              "idiom_text": "坐而论道",
+              "explanation": "①空谈,不行动 ②字面意思:坐着谈 eg:坐而论道,不如起而行之"
+            },
+            {
+              "idiom_id": "37.1.4",
+              "idiom_text": "水中捞月",
+              "explanation": "白费力气"
+            },
+            {
+              "idiom_id": "37.1.5",
+              "idiom_text": "画饼充饥",
+              "explanation": "靠空想骗自己"
+            }
+          ]
+        },
+        {
+          "subgroup_id": "37.2",
+          "subgroup_title": "二",
+          "subgroup_name": "实现不了",
+          "idioms": [
+            {
+              "idiom_id": "37.2.1",
+              "idiom_text": "空中楼阁",
+              "explanation": "没有根基，没有基础"
+            },
+            {
+              "idiom_id": "37.2.2",
+              "idiom_text": "镜花水月",
+              "explanation": "镜子里的花，水里的月亮。比喻虚幻的东西。"
+            },
+            {
+              "idiom_id": "37.2.3",
+              "idiom_text": "海市蜃楼",
+              "explanation": "比喻虚无缥缈而不实际存在的事物，也比喻不可企及的虚无的梦想。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "group_id": 38,
+      "group_title": "三十八、来者众多",
+      "group_count": 0,
+      "subgroups": [
+        {
+          "subgroup_id": "38.1",
+          "subgroup_title": "一",
+          "subgroup_name": "形容到来\n",
+          "idioms": [
+            {
+              "idiom_id": "38.1.1",
+              "idiom_text": "接踵而至",
+              "explanation": "接连不断地到来，侧重接着来。可形容人/物！eg:游客接踵而至 愿好运接踵而至"
+            },
+            {
+              "idiom_id": "38.1.2",
+              "idiom_text": "络绎不绝",
+              "explanation": "形容人（游客、消费者、顾客等）,往来不断"
+            },
+            {
+              "idiom_id": "38.1.3",
+              "idiom_text": "纷至沓来",
+              "explanation": "形容人和物。侧重纷纷到来，从四面八方来"
+            },
+            {
+              "idiom_id": "38.1.4",
+              "idiom_text": "蜂拥而至",
+              "explanation": "①形容很多人朝一个地聚拢，一窝蜂的到来 ②后面不接地点,得是得有个地方 eg:超市进了一批新玩具,小学生一下课便蜂拥而至。"
+            }
+          ]
+        },
+        {
+          "subgroup_id": "38.2",
+          "subgroup_title": "二",
+          "subgroup_name": "形容人多、人少\n",
+          "idioms": [
+            {
+              "idiom_id": "38.2.1",
+              "idiom_text": "门庭若市",
+              "explanation": "热闹非凡，形容往来的人很多"
+            },
+            {
+              "idiom_id": "38.2.2",
+              "idiom_text": "无人问津",
+              "explanation": "没人过问/搭理、受到冷落，好像不存在一样(形容某事物受冷落、无人理睬。程度较重)"
+            },
+            {
+              "idiom_id": "38.2.3",
+              "idiom_text": "门庭冷落",
+              "explanation": "十分冷落，宾客稀少（=门可罗雀）"
+            }
+          ]
+        },
+        {
+          "subgroup_id": "38.3",
+          "subgroup_title": "三",
+          "subgroup_name": "偶遇\n",
+          "idioms": [
+            {
+              "idiom_id": "38.3.1",
+              "idiom_text": "不期而遇",
+              "explanation": "偶遇，不一定认识，没约定而意外相遇 eg:好运不期而遇"
+            },
+            {
+              "idiom_id": "38.3.2",
+              "idiom_text": "萍水相逢",
+              "explanation": "不认识的人偶然相遇(陌生人)"
+            }
+          ]
+        },
+        {
+          "subgroup_id": "38.4",
+          "subgroup_title": "四",
+          "subgroup_name": "一同出现\n",
+          "idioms": [
+            {
+              "idiom_id": "38.4.1",
+              "idiom_text": "如影随形",
+              "explanation": "好像影子总是跟着身体一样（人、影），比喻两个人一起出现，关系亲密。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "group_id": 39,
+      "group_title": "三十九、人多热闹",
+      "group_count": 0,
+      "idioms": [
+        {
+          "idiom_id": "39.1",
+          "idiom_text": "熙熙攘攘",
+          "explanation": "侧重人多，人来人往，纷杂拥挤"
+        },
+        {
+          "idiom_id": "39.2",
+          "idiom_text": "人头攒动",
+          "explanation": "同“摩肩接踵”，某些地方人密度大，但程度不如人山人海高"
+        },
+        {
+          "idiom_id": "39.3",
+          "idiom_text": "人山人海",
+          "explanation": "程度更重，聚集的人非常多"
+        },
+        {
+          "idiom_id": "39.4",
+          "idiom_text": "车水马龙",
+          "explanation": "人来人往、车来车往，热闹的景象"
+        },
+        {
+          "idiom_id": "39.5",
+          "idiom_text": "川流不息",
+          "explanation": "指行人、车辆、道路很多"
+        },
+        {
+          "idiom_id": "39.6",
+          "idiom_text": "万人空巷",
+          "explanation": "家家户户的人都从巷里出来了。多形容庆祝、欢迎等盛况"
+        }
+      ]
+    },
+    {
+      "group_id": 40,
+      "group_title": "四十、好坏掺杂",
+      "group_count": 0,
+      "subgroups": [
+        {
+          "subgroup_id": "40.1",
+          "subgroup_title": "一",
+          "subgroup_name": "好坏都有\n",
+          "idioms": [
+            {
+              "idiom_id": "40.1.1",
+              "idiom_text": "参差不齐",
+              "explanation": "①强调不一致、有差别，高低、长短、大小不齐 ②多搭配水平、质量、进展等"
+            },
+            {
+              "idiom_id": "40.1.2",
+              "idiom_text": "泥沙俱下",
+              "explanation": "好的坏的都掺杂在一起，可指人/物（=良莠不齐）"
+            },
+            {
+              "idiom_id": "40.1.3",
+              "idiom_text": "鱼龙混杂",
+              "explanation": "与泥沙俱下、良莠不齐同义，区别在于指人 好的坏的都掺杂在一起，一般指人（不辨析时也可形容物）"
+            },
+            {
+              "idiom_id": "40.1.4",
+              "idiom_text": "鱼目混珠",
+              "explanation": "①以假乱真，以次充好 ②常用语境：卖假货"
+            },
+            {
+              "idiom_id": "40.1.5",
+              "idiom_text": "滥竽充数",
+              "explanation": "①没有真实本领的人，混在行家队伍里充数（混在其中） ②也比喻以次充好 ③可用于自谦"
+            }
+          ]
+        },
+        {
+          "subgroup_id": "40.2",
+          "subgroup_title": "二",
+          "subgroup_name": "不分好坏\n",
+          "idioms": [
+            {
+              "idiom_id": "40.2.1",
+              "idiom_text": "买椟还珠",
+              "explanation": "好坏不分，没有眼光，不识货，取舍失当"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "group_id": 41,
+      "group_title": "四十一、流行与名声",
+      "group_count": 0,
+      "subgroups": [
+        {
+          "subgroup_id": "41.1",
+          "subgroup_title": "一",
+          "subgroup_name": "流行\n",
+          "idioms": [
+            {
+              "idiom_id": "41.1.1",
+              "idiom_text": "蔚然成风",
+              "explanation": "形成一种好的风气（多褒义）"
+            },
+            {
+              "idiom_id": "41.1.2",
+              "idiom_text": "风靡一时",
+              "explanation": "侧重一段时间，某一种事物在一个时期内非常流行（中性）"
+            }
+          ]
+        },
+        {
+          "subgroup_id": "41.2",
+          "subgroup_title": "二",
+          "subgroup_name": "名声大\n",
+          "idioms": [
+            {
+              "idiom_id": "41.2.1",
+              "idiom_text": "如雷贯耳",
+              "explanation": "名声很大"
+            },
+            {
+              "idiom_id": "41.2.2",
+              "idiom_text": "炙手可热",
+              "explanation": "①气焰盛，权势大 ②现可指明星等十分火热、受欢迎。"
+            },
+            {
+              "idiom_id": "41.2.3",
+              "idiom_text": "名噪一时",
+              "explanation": "强调在那段时间很出名"
+            },
+            {
+              "idiom_id": "41.2.4",
+              "idiom_text": "闻名遐迩",
+              "explanation": "远近闻名，指好的"
+            }
+          ]
+        },
+        {
+          "subgroup_id": "41.3",
+          "subgroup_title": "三",
+          "subgroup_name": "不好的流行、名声\n",
+          "idioms": [
+            {
+              "idiom_id": "41.3.1",
+              "idiom_text": "靡然成风",
+              "explanation": "不好的风气（贬义）"
+            },
+            {
+              "idiom_id": "41.3.2",
+              "idiom_text": "大行其道",
+              "explanation": "新潮事物流行成为一种风尚（中性，多贬义）eg:金庸小说在越南～（中性） “洁厕块致癌”谣言何以~（贬义）"
+            },
+            {
+              "idiom_id": "41.3.3",
+              "idiom_text": "趋之若鹜",
+              "explanation": "追逐那些不好的事物（贬义）"
+            },
+            {
+              "idiom_id": "41.3.4",
+              "idiom_text": "甚嚣尘上",
+              "explanation": "某种言论十分嚣张（中性，偏贬义）eg:最近花生老师秃头的言论～"
+            },
+            {
+              "idiom_id": "41.3.5",
+              "idiom_text": "煊赫一时",
+              "explanation": "一段时间很出名（中性）"
+            },
+            {
+              "idiom_id": "41.3.6",
+              "idiom_text": "过江之鲫",
+              "explanation": "某种事物非常流行或时兴，数量众多，并且往往带有盲目跟风的意味（中性）"
+            }
+          ]
+        },
+        {
+          "subgroup_id": "41.4",
+          "subgroup_title": "四",
+          "subgroup_name": "突然出名\n",
+          "idioms": [
+            {
+              "idiom_id": "41.4.1",
+              "idiom_text": "声名鹊起",
+              "explanation": "侧重出名快（突然出名）"
+            },
+            {
+              "idiom_id": "41.4.2",
+              "idiom_text": "名声大噪",
+              "explanation": "侧重名声大，名声广泛地传播开去（原来有点小名气，现在变大了）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "group_id": 42,
+      "group_title": "四十二、与传播、传闻相关",
+      "group_count": 0,
+      "subgroups": [
+        {
+          "subgroup_id": "42.1",
+          "subgroup_title": "一",
+          "subgroup_name": "不同的传播方式\n",
+          "idioms": [
+            {
+              "idiom_id": "42.1.1",
+              "idiom_text": "以讹传讹",
+              "explanation": "侧重传播错误的。把不正确的话又错误地传出去，结果越传越错"
+            },
+            {
+              "idiom_id": "42.1.2",
+              "idiom_text": "无孔不入",
+              "explanation": "防都防不住，侧重有空子就钻 eg:诈骗短信～"
+            },
+            {
+              "idiom_id": "42.1.3",
+              "idiom_text": "铺天盖地",
+              "explanation": "来势猛，声势大，到处都是"
+            },
+            {
+              "idiom_id": "42.1.4",
+              "idiom_text": "道听途说",
+              "explanation": "没根据的传言"
+            },
+            {
+              "idiom_id": "42.1.5",
+              "idiom_text": "街谈巷议",
+              "explanation": "大街小巷都在谈论"
+            },
+            {
+              "idiom_id": "42.1.6",
+              "idiom_text": "稗官野史",
+              "explanation": "野史，逸闻轶事的合集（把八卦新闻编个册就变成了～）"
+            },
+            {
+              "idiom_id": "42.1.7",
+              "idiom_text": "逸闻轶事",
+              "explanation": "八卦新闻"
+            }
+          ]
+        },
+        {
+          "subgroup_id": "42.2",
+          "subgroup_title": "二",
+          "subgroup_name": "传播广泛或深入\n",
+          "idioms": [
+            {
+              "idiom_id": "42.2.1",
+              "idiom_text": "脍炙人口",
+              "explanation": "强调民歌/诗词，大家都喜欢、能传诵"
+            },
+            {
+              "idiom_id": "42.2.2",
+              "idiom_text": "津津乐道",
+              "explanation": "大家爱说，说个没完"
+            },
+            {
+              "idiom_id": "42.2.3",
+              "idiom_text": "喜闻乐见",
+              "explanation": "①喜欢听，乐意看。形容很受欢迎 ②百姓喜闻乐见（有时候也没主语） ③语境：体育赛事、文艺演出"
+            },
+            {
+              "idiom_id": "42.2.4",
+              "idiom_text": "深入人心",
+              "explanation": "…理念深入人心 eg:人类命运共同体理念～"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "group_id": 43,
+      "group_title": "四十三、与消失、重现相关",
+      "group_count": 0,
+      "subgroups": [
+        {
+          "subgroup_id": "43.1",
+          "subgroup_title": "一",
+          "subgroup_name": "消失或失去\n",
+          "idioms": [
+            {
+              "idiom_id": "43.1.1",
+              "idiom_text": "烟消云散",
+              "explanation": "指抽象的东西全部消失，如压力/情绪/烦恼/焦虑像烟云一样消散"
+            },
+            {
+              "idiom_id": "43.1.2",
+              "idiom_text": "灰飞烟灭",
+              "explanation": "人或事物像灰/烟一样没了，侧重消失了 eg:日本海军三年内～"
+            },
+            {
+              "idiom_id": "43.1.3",
+              "idiom_text": "化为乌有",
+              "explanation": "归零，变得什么都没有 eg:山洪让这些家庭几十年的努力～"
+            },
+            {
+              "idiom_id": "43.1.4",
+              "idiom_text": "子虚乌有",
+              "explanation": "虚构，不存在"
+            },
+            {
+              "idiom_id": "43.1.5",
+              "idiom_text": "稍纵即逝",
+              "explanation": "稍微一放松就消失了，时间或机会不把握很快就消失"
+            },
+            {
+              "idiom_id": "43.1.6",
+              "idiom_text": "昙花一现",
+              "explanation": "出现的时间极短，又没了"
+            },
+            {
+              "idiom_id": "43.1.7",
+              "idiom_text": "转瞬即逝",
+              "explanation": "转眼之间就很快消失"
+            },
+            {
+              "idiom_id": "43.1.8",
+              "idiom_text": "销声匿迹",
+              "explanation": "侧重藏起来"
+            },
+            {
+              "idiom_id": "43.1.9",
+              "idiom_text": "偃旗息鼓",
+              "explanation": "①指军队为不暴露目标而隐蔽行动或停止作战。反义词：大张旗鼓 ②侧重停止，事情中止eg:一旦遇到瓶颈就~"
+            },
+            {
+              "idiom_id": "43.1.10",
+              "idiom_text": "无影无踪",
+              "explanation": "无踪影，完全消失，不知去向"
+            }
+          ]
+        },
+        {
+          "subgroup_id": "43.2",
+          "subgroup_title": "二",
+          "subgroup_name": "消失后又出现\n",
+          "idioms": [
+            {
+              "idiom_id": "43.2.1",
+              "idiom_text": "死灰复燃",
+              "explanation": "①“死”的事物又出现了（消极） ②不良的行为、疾病都可以用～（贬义）"
+            },
+            {
+              "idiom_id": "43.2.2",
+              "idiom_text": "卷土重来",
+              "explanation": "战败的一方，积蓄力量又出现（中性）"
+            },
+            {
+              "idiom_id": "43.2.3",
+              "idiom_text": "沉渣泛起",
+              "explanation": "腐朽、陈旧的事物又重新出现（贬义）"
+            }
+          ]
+        },
+        {
+          "subgroup_id": "43.3",
+          "subgroup_title": "三",
+          "subgroup_name": "形容分裂\n",
+          "idioms": [
+            {
+              "idiom_id": "43.3.1",
+              "idiom_text": "土崩瓦解",
+              "explanation": "①程度更重 ②某种势力彻底垮台、思想观念崩了"
+            },
+            {
+              "idiom_id": "43.3.2",
+              "idiom_text": "分崩离析",
+              "explanation": "分裂，形容家庭、集团、组织或国家分裂瓦解 eg:前苏联～"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "group_id": 44,
+      "group_title": "四十四、明显、含糊相关",
+      "group_count": 0,
+      "subgroups": [
+        {
+          "subgroup_id": "44.1",
+          "subgroup_title": "一",
+          "subgroup_name": "形容很明显\n",
+          "idioms": [
+            {
+              "idiom_id": "44.1.1",
+              "idiom_text": "毋庸置疑",
+              "explanation": "肯定正确，用不着怀疑"
+            },
+            {
+              "idiom_id": "44.1.2",
+              "idiom_text": "显而易见",
+              "explanation": "侧重看得到，事情或道理非常明显，极容易看清楚"
+            },
+            {
+              "idiom_id": "44.1.3",
+              "idiom_text": "不言而喻",
+              "explanation": "不用说什么就能明白"
+            },
+            {
+              "idiom_id": "44.1.4",
+              "idiom_text": "昭然若揭",
+              "explanation": "①所有一切都已显现出来了 ②经常和不好的事物写在一起，消极语境（多贬义）eg:美国唯恐香港不乱的险恶用心~"
+            },
+            {
+              "idiom_id": "44.1.5",
+              "idiom_text": "彰明较著",
+              "explanation": "极其明显（这4个字都是“明显”的意思）"
+            },
+            {
+              "idiom_id": "44.1.6",
+              "idiom_text": "有目共睹",
+              "explanation": "①人人都可以看到，极其明显 ②常指成绩/成就，常用在积极语境中"
+            },
+            {
+              "idiom_id": "44.1.7",
+              "idiom_text": "一目了然",
+              "explanation": "看一眼就明白，看得很全/很清楚/很透彻 eg:资料的图表～"
+            },
+            {
+              "idiom_id": "44.1.8",
+              "idiom_text": "大张旗鼓",
+              "explanation": "①公开的，进攻/群众活动声势和规模很大 ②反义词：偃旗息鼓"
+            }
+          ]
+        },
+        {
+          "subgroup_id": "44.2",
+          "subgroup_title": "二",
+          "subgroup_name": "形容不明显\n",
+          "idioms": [
+            {
+              "idiom_id": "44.2.1",
+              "idiom_text": "毋庸讳言",
+              "explanation": "①没有什么可隐瞒可忌讳的，直接说 ②~一般接：可能让人不好意思/不方便说的事，~"
+            },
+            {
+              "idiom_id": "44.2.2",
+              "idiom_text": "语焉不详",
+              "explanation": "写或说的不详细"
+            },
+            {
+              "idiom_id": "44.2.3",
+              "idiom_text": "讳莫如深",
+              "explanation": "因为忌讳或…原因，隐藏不说"
+            },
+            {
+              "idiom_id": "44.2.4",
+              "idiom_text": "暗度陈仓",
+              "explanation": "表面那么做，其实他是有…目的（暗中进行某种活动）eg:虽然他表面看起来很单纯，但心里很有心机，常常~，让人措手不及。"
+            },
+            {
+              "idiom_id": "44.2.5",
+              "idiom_text": "不露声色",
+              "explanation": "字面意思。心里面的计划/想法不通过言语和面部表情直接表现出来（不写在脸上，看不出来真实态度）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "group_id": 45,
+      "group_title": "四十五、重视、重要相关",
+      "group_count": 0,
+      "subgroups": [
+        {
+          "subgroup_id": "45.1",
+          "subgroup_title": "一",
+          "subgroup_name": "不重视\n",
+          "idioms": [
+            {
+              "idiom_id": "45.1.1",
+              "idiom_text": "视而不见",
+              "explanation": "看到跟没看到一样，比喻轻视/不在意/不重视/不理睬"
+            },
+            {
+              "idiom_id": "45.1.2",
+              "idiom_text": "熟视无睹",
+              "explanation": "经常看，看惯了就像没看见一样 区别：看到的东西用视而不见/熟视无睹"
+            },
+            {
+              "idiom_id": "45.1.3",
+              "idiom_text": "置若罔闻",
+              "explanation": "听到当没听到一样"
+            },
+            {
+              "idiom_id": "45.1.4",
+              "idiom_text": "充耳不闻",
+              "explanation": "①故意不听别人的话（听见就跟没听见一样） ②对某事漠不关心 ③主观上故意或不重视   区别：听到的东西用置若罔闻/充耳不闻"
+            },
+            {
+              "idiom_id": "45.1.5",
+              "idiom_text": "闭目塞听",
+              "explanation": "①做法 ②闭着眼睛、堵住耳朵（不听不听，不看不看），不与外界接触、脱离实际，侧重封闭 eg:现在我们的发展不能~，闭门造车"
+            },
+            {
+              "idiom_id": "45.1.6",
+              "idiom_text": "置之不理",
+              "explanation": "放在一边不搭理"
+            },
+            {
+              "idiom_id": "45.1.7",
+              "idiom_text": "嗤之以鼻",
+              "explanation": "①用鼻子发出笑声（有声音：哼） ②轻蔑，不以为然，看不起，很讨厌"
+            },
+            {
+              "idiom_id": "45.1.8",
+              "idiom_text": "不屑一顾",
+              "explanation": "①不瞅，不值得一看 ②轻视、看不起"
+            },
+            {
+              "idiom_id": "45.1.9",
+              "idiom_text": "视如敝屣",
+              "explanation": "极端的轻视，像烂鞋子一样没人用"
+            },
+            {
+              "idiom_id": "45.1.10",
+              "idiom_text": "束之高阁",
+              "explanation": "①弃置不用，多指有价值的东西 ②语境：科研成果、文化遗产"
+            }
+          ]
+        },
+        {
+          "subgroup_id": "45.2",
+          "subgroup_title": "二",
+          "subgroup_name": "重视\n",
+          "idioms": [
+            {
+              "idiom_id": "45.2.1",
+              "idiom_text": "爱不释手",
+              "explanation": "喜爱得舍不得放手，拿在手上把玩 eg:花生老师的姑娘对小钥匙扣～"
+            },
+            {
+              "idiom_id": "45.2.2",
+              "idiom_text": "手不释卷",
+              "explanation": "喜欢看书，形容勤勉好学、读书入迷"
+            },
+            {
+              "idiom_id": "45.2.3",
+              "idiom_text": "视如珍宝",
+              "explanation": "看成宝贝。形容十分珍爱，将其当成无价之宝"
+            },
+            {
+              "idiom_id": "45.2.4",
+              "idiom_text": "奉为圭臬",
+              "explanation": "把…当作人生的准则/行事标准，不敢打破 eg:把圣人之道～"
+            }
+          ]
+        },
+        {
+          "subgroup_id": "45.3",
+          "subgroup_title": "三",
+          "subgroup_name": "是否重要\n",
+          "idioms": [
+            {
+              "idiom_id": "45.3.1",
+              "idiom_text": "举足轻重",
+              "explanation": "很重要，地位高，影响大，能左右局势"
+            },
+            {
+              "idiom_id": "45.3.2",
+              "idiom_text": "无足轻重",
+              "explanation": "一点儿都不重要，啥也不影响"
+            },
+            {
+              "idiom_id": "45.3.3",
+              "idiom_text": "细枝末节",
+              "explanation": "无关紧要的小事"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "group_id": 46,
+      "group_title": "四十六、熟悉、了解、知晓相关",
+      "group_count": 0,
+      "subgroups": [
+        {
+          "subgroup_id": "46.1",
+          "subgroup_title": "一",
+          "subgroup_name": "很熟悉\n",
+          "idioms": [
+            {
+              "idiom_id": "46.1.1",
+              "idiom_text": "驾轻就熟",
+              "explanation": "对所做的事情熟悉，办起来容易 eg:阿姨对线上支付~"
+            },
+            {
+              "idiom_id": "46.1.2",
+              "idiom_text": "轻车熟路",
+              "explanation": "事情又轻松又熟悉，办起来很容易 eg：这事对我可谓轻车熟路！"
+            },
+            {
+              "idiom_id": "46.1.3",
+              "idiom_text": "了如指掌",
+              "explanation": "非常了解"
+            },
+            {
+              "idiom_id": "46.1.4",
+              "idiom_text": "耳熟能详",
+              "explanation": "总听到，听得多了所以能地详细说出来"
+            },
+            {
+              "idiom_id": "46.1.5",
+              "idiom_text": "如数家珍",
+              "explanation": "如同数自己家藏的珍宝那样清楚，对所讲述的东西非常熟悉        eg:有些同学对花生老师取得的成绩～"
+            },
+            {
+              "idiom_id": "46.1.6",
+              "idiom_text": "烂熟于心",
+              "explanation": "心中有数，十分熟悉   eg:对思维导图要～"
+            }
+          ]
+        },
+        {
+          "subgroup_id": "46.2",
+          "subgroup_title": "二",
+          "subgroup_name": "谁都知道",
+          "idioms": [
+            {
+              "idiom_id": "46.2.1",
+              "idiom_text": "人尽皆知",
+              "explanation": "一定范围内的人都知道了。也就是说大家都知道了"
+            },
+            {
+              "idiom_id": "46.2.2",
+              "idiom_text": "妇孺皆知",
+              "explanation": "妇女、小孩全都知道。指众所周知"
+            },
+            {
+              "idiom_id": "46.2.3",
+              "idiom_text": "家喻户晓",
+              "explanation": "家家户户都知道。形容人人皆知"
+            }
+          ]
+        },
+        {
+          "subgroup_id": "46.3",
+          "subgroup_title": "三",
+          "subgroup_name": "不知道\n",
+          "idioms": [
+            {
+              "idiom_id": "46.3.1",
+              "idiom_text": "一无所知",
+              "explanation": "什么也不知道"
+            },
+            {
+              "idiom_id": "46.3.2",
+              "idiom_text": "不甚了了",
+              "explanation": "心里不太明白，不是很清楚"
+            },
+            {
+              "idiom_id": "46.3.3",
+              "idiom_text": "默默无闻",
+              "explanation": "做事无声无息，无人知晓，做了好事不声张，不图名利，没人知道"
+            },
+            {
+              "idiom_id": "46.3.4",
+              "idiom_text": "鲜为人知",
+              "explanation": "很少有人知道"
+            }
+          ]
+        },
+        {
+          "subgroup_id": "46.4",
+          "subgroup_title": "四",
+          "subgroup_name": "难以想象、相信",
+          "idioms": [
+            {
+              "idiom_id": "46.4.1",
+              "idiom_text": "匪夷所思",
+              "explanation": "人的思想/言谈/技艺/事情等离奇，超出寻常 指行为举止离奇古怪，超出常情，不是一般人根据常理所能想象出来的"
+            },
+            {
+              "idiom_id": "46.4.2",
+              "idiom_text": "不可思议",
+              "explanation": "无法想象，难以理解"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "group_id": 47,
+      "group_title": "四十七、很常见不奇怪",
+      "group_count": 0,
+      "idioms": [
+        {
+          "idiom_id": "47.1",
+          "idiom_text": "司空见惯",
+          "explanation": "经常看到什么东西习惯了（偏生活中常见的）"
+        },
+        {
+          "idiom_id": "47.2",
+          "idiom_text": "屡见不鲜",
+          "explanation": "经常见到，并不新鲜 eg:老人误吞假牙的事件~"
+        },
+        {
+          "idiom_id": "47.3",
+          "idiom_text": "不足为奇",
+          "explanation": "没有常见的意思，只表达事物或现象平常，不奇特，很合理"
+        },
+        {
+          "idiom_id": "47.4",
+          "idiom_text": "习以为常",
+          "explanation": "①经常看到，成了习惯，就觉得很平常了 ②常参与其中"
+        },
+        {
+          "idiom_id": "47.5",
+          "idiom_text": "见怪不怪",
+          "explanation": "本身是个怪事，经常看到就不感到奇怪了"
+        },
+        {
+          "idiom_id": "47.6",
+          "idiom_text": "无独有偶",
+          "explanation": "虽然罕见，但是不止一个，还会再出现。表示两件事或两个人十分相似"
+        }
+      ]
+    },
+    {
+      "group_id": 48,
+      "group_title": "四十八、看法一致与否",
+      "group_count": 0,
+      "subgroups": [
+        {
+          "subgroup_id": "48.1",
+          "subgroup_title": "一",
+          "subgroup_name": "不同人群不同态度\n",
+          "idioms": [
+            {
+              "idiom_id": "48.1.1",
+              "idiom_text": "各持己见",
+              "explanation": "①各人都坚持自己的主见 ②缺主语，使用时应该搭配主语使用 eg:双方~    五兄妹~"
+            },
+            {
+              "idiom_id": "48.1.2",
+              "idiom_text": "众说纷纭",
+              "explanation": "①人多嘴杂，看法不一致，议论纷纷（侧重观点多）②可加主语eg:大家~；科学家们~ 也可不加主语eg:对...的成因~；标准~"
+            },
+            {
+              "idiom_id": "48.1.3",
+              "idiom_text": "莫衷一是",
+              "explanation": "①没有形成一致的看法，侧重观点难以统一 ②有无主语都可以"
+            },
+            {
+              "idiom_id": "48.1.4",
+              "idiom_text": "不置可否",
+              "explanation": "不说可以，也不说不可以。指不表明自己的态度（不表态）"
+            },
+            {
+              "idiom_id": "48.1.5",
+              "idiom_text": "模凌两可",
+              "explanation": "模棱两可是表示了，不明确，即模糊的态度（表明但不明确）"
+            },
+            {
+              "idiom_id": "48.1.6",
+              "idiom_text": "针锋相对",
+              "explanation": "策略、言论、观点尖锐对立"
+            }
+          ]
+        },
+        {
+          "subgroup_id": "48.2",
+          "subgroup_title": "二",
+          "subgroup_name": "众人对某一个人态度\n",
+          "idioms": [
+            {
+              "idiom_id": "48.2.1",
+              "idiom_text": "众望所归",
+              "explanation": "大家对一个人、一件事的态度很认可 eg:XX 获奖了，~"
+            },
+            {
+              "idiom_id": "48.2.2",
+              "idiom_text": "人心所向",
+              "explanation": "大家都认可、拥护、向往 补充--人心向背：即模糊的态度人民群众出自内心的拥护或反对"
+            },
+            {
+              "idiom_id": "48.2.3",
+              "idiom_text": "不负众望",
+              "explanation": "不辜负大家的期望"
+            },
+            {
+              "idiom_id": "48.2.4",
+              "idiom_text": "不孚众望",
+              "explanation": "不能让大家信服"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "group_id": 49,
+      "group_title": "四十九、从细节看全貌",
+      "group_count": 0,
+      "subgroups": [
+        {
+          "subgroup_id": "49.1",
+          "subgroup_title": "一",
+          "subgroup_name": "看法片面\n",
+          "idioms": [
+            {
+              "idiom_id": "49.1.1",
+              "idiom_text": "以偏概全",
+              "explanation": "用片面的观点看待整体问题"
+            },
+            {
+              "idiom_id": "49.1.2",
+              "idiom_text": "一孔之见",
+              "explanation": "片面的观点见解，多谦称自己的看法 eg:是我们的~"
+            },
+            {
+              "idiom_id": "49.1.3",
+              "idiom_text": "管窥蠡测",
+              "explanation": "眼光狭小，见识不广或不自量力，中性词（侧重整体与部分对比）"
+            },
+            {
+              "idiom_id": "49.1.4",
+              "idiom_text": "盲人摸象",
+              "explanation": "由片面得出一个整体的结论或看法，以偏概全 eg:只重视宏观研究不重视微观，就会空中楼阁；忽视整体只做微观研究，就会盲人摸象。"
+            },
+            {
+              "idiom_id": "49.1.5",
+              "idiom_text": "管中窥豹",
+              "explanation": "两个意思，根据前后文判断具体词义：①见识狭小，看法片面 ②从观察到的部分推测全貌，中性"
+            },
+            {
+              "idiom_id": "49.1.6",
+              "idiom_text": "坐井观天",
+              "explanation": "目光狭隘。眼界不开阔，见识不广"
+            },
+            {
+              "idiom_id": "49.1.7",
+              "idiom_text": "一叶障目",
+              "explanation": "眼睛被一片树叶挡住，指看不到事物的全貌"
+            }
+          ]
+        },
+        {
+          "subgroup_id": "49.2",
+          "subgroup_title": "二",
+          "subgroup_name": "能从小处推全局\n",
+          "idioms": [
+            {
+              "idiom_id": "49.2.1",
+              "idiom_text": "一叶知秋",
+              "explanation": "发现一点预兆就能推测未来的发展趋向，侧重规律性事物的发展（侧重从预兆推知未来）"
+            },
+            {
+              "idiom_id": "49.2.2",
+              "idiom_text": "以小见大",
+              "explanation": "字面意思。①通过小事可以看出大节 ②通过一小部分看出整体（侧重大小对比）"
+            },
+            {
+              "idiom_id": "49.2.3",
+              "idiom_text": "见微知著",
+              "explanation": "看到苗头/微小的迹象/小事 就能推测 整体未来发展"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "group_id": 50,
+      "group_title": "五十、看事情透彻",
+      "group_count": 0,
+      "subgroups": [
+        {
+          "subgroup_id": "50.1",
+          "subgroup_title": "一",
+          "subgroup_name": "见解精准正确\n",
+          "idioms": [
+            {
+              "idiom_id": "50.1.1",
+              "idiom_text": "远见卓识",
+              "explanation": "形容人有远见、卓越的见识。既目光长远，又见识/看法正确透彻"
+            },
+            {
+              "idiom_id": "50.1.2",
+              "idiom_text": "真知灼见",
+              "explanation": "形容看法。正确的认知，透彻的见解 eg:全球各地专家为研究澳门贡献~"
+            },{
+              "idiom_id": "50.1.3",
+              "idiom_text": "鞭辟入里",
+              "explanation": "形容分析问题透彻，切中要害（分析到最里层、最本质了）eg:分析得~；~的分析判断/见解"
+            },{
+              "idiom_id": "50.1.4",
+              "idiom_text": "一针见血",
+              "explanation": "说话直接了当，切中要害，准"
+            },{
+              "idiom_id": "50.1.5",
+              "idiom_text": "一语中的",
+              "explanation": "一句话就说中要害、说清了事情的重点"
+            },{
+              "idiom_id": "50.1.6",
+              "idiom_text": "一语成谶",
+              "explanation": "乌鸦嘴。一句（不好的）话说中了，就是“不幸而言中”（不吉利的事情，诅咒别人似的）"
+            },{
+              "idiom_id": "50.1.7",
+              "idiom_text": "字字珠玑",
+              "explanation": "①每个字都很重要，不轻易地替换 ②字少精炼 eg:《道德经》短小精悍，~。"
+            }
+          ]
+        },
+        {
+          "subgroup_id": "50.2",
+          "subgroup_title": "二",
+          "subgroup_name": "看事情透彻\n",
+          "idioms": [
+            {
+              "idiom_id": "50.2.1",
+              "idiom_text": "洞若观火",
+              "explanation": "十分透彻。看得透彻的程度，是一个结果"
+            },
+            {
+              "idiom_id": "50.2.2",
+              "idiom_text": "明察秋毫",
+              "explanation": "形容人精明，目光敏锐，心里透亮，能洞察一切。侧重能看清别人看不清的 eg:大人您~！"
+            },
+            {
+              "idiom_id": "50.2.3",
+              "idiom_text": "一目了然",
+              "explanation": "一眼就可以看清楚，侧重看得清楚 eg:资料图表~"
+            },
+            {
+              "idiom_id": "50.2.4",
+              "idiom_text": "一览无余",
+              "explanation": "站得高看得远，侧重看的全"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "group_id": 51,
+      "group_title": "五十一、对事情的态度与评价",
+      "group_count": 0,
+      "idioms": [
+        {
+          "idiom_id": "51.1",
+          "idiom_text": "大有可为",
+          "explanation": "前途极有希望，值得去做 eg:必将大有可为，也必定大有作为"
+        },
+        {
+          "idiom_id": "51.2",
+          "idiom_text": "无可厚非",
+          "explanation": "①虽有缺点，但是可以理解或原谅 ②常用句式：……无可厚非，但……"
+        },
+        {
+          "idiom_id": "51.3",
+          "idiom_text": "无可非议",
+          "explanation": "没有什么可以指责的，表示言行合乎情理，一点争议都没有"
+        },
+        {
+          "idiom_id": "51.4",
+          "idiom_text": "差强人意",
+          "explanation": "勉强、大致上令人满意 eg:国足可不是~，那差太多了"
+        },
+        {
+          "idiom_id": "51.5",
+          "idiom_text": "敬而远之",
+          "explanation": "尊敬但是远离，不想接近 ②常形容年轻人对传统、戏曲等的态度"
+        },
+        {
+          "idiom_id": "51.6",
+          "idiom_text": "毋庸讳言",
+          "explanation": "不需要有什么隐瞒、忌讳的，大胆说，直接说"
+        },
+        {
+          "idiom_id": "51.7",
+          "idiom_text": "缄口不言",
+          "explanation": "封住嘴巴，不开口说话"
+        }
+      ]
+    },
+    {
+      "group_id": 52,
+      "group_title": "五十二、数量多与少",
+      "group_count": 0,
+      "subgroups": [
+        {
+          "subgroup_id": "52.1",
+          "subgroup_title": "一",
+          "subgroup_name": "形容少\n",
+          "idioms": [
+            {
+              "idiom_id": "52.1.1",
+              "idiom_text": "凤毛麟角",
+              "explanation": "珍贵而稀少的人或事 eg:具有研发实力的企业~"
+            },
+            {
+              "idiom_id": "52.1.2",
+              "idiom_text": "寥寥无几",
+              "explanation": "强调少，好的坏的都行"
+            },
+            {
+              "idiom_id": "52.1.3",
+              "idiom_text": "屈指可数",
+              "explanation": "数目极少，侧重好的事"
+            },
+            {
+              "idiom_id": "52.1.4",
+              "idiom_text": "寥若星辰",
+              "explanation": "形容好的，较少（偏褒义）"
+            }
+          ]
+        },
+        {
+          "subgroup_id": "52.2",
+          "subgroup_title": "二",
+          "subgroup_name": "形容多\n",
+          "idioms": [
+            {
+              "idiom_id": "52.2.1",
+              "idiom_text": "车载斗量",
+              "explanation": "①数量多，不可胜数，多指不足为奇，很常见 ②骄傲、自豪 eg:四海上岸的同学~"
+            },
+            {
+              "idiom_id": "52.2.2",
+              "idiom_text": "不胜枚举",
+              "explanation": "例子太多了，举不过来 eg:这里的好人好事~"
+            },
+            {
+              "idiom_id": "52.2.3",
+              "idiom_text": "俯拾皆是",
+              "explanation": "数量多且容易获得 eg:传统诗歌重关于思乡的诗句~"
+            },
+            {
+              "idiom_id": "52.2.4",
+              "idiom_text": "数不胜数",
+              "explanation": "数量极多，数也数不完"
+            },
+            {
+              "idiom_id": "52.2.5",
+              "idiom_text": "不一而足",
+              "explanation": "=等等。还有很多，不说了，省略了 eg:几个例子……不一而足；凡此种种，不一而足"
+            }
+          ]
+        },
+        {
+          "subgroup_id": "52.3",
+          "subgroup_title": "三",
+          "subgroup_name": "形容书多\n",
+          "idioms": [
+            {
+              "idiom_id": "52.3.1",
+              "idiom_text": "汗牛充栋",
+              "explanation": "藏书多、书多"
+            },
+            {
+              "idiom_id": "52.3.2",
+              "idiom_text": "浩如烟海",
+              "explanation": "书、古籍、文献等数量繁多，极其丰富（侧重书多） 补充--卷帙浩繁：书多、书的章节多、卷目多eg:~的二十五史"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "group_id": 53,
+      "group_title": "五十三、建筑相关",
+      "group_count": 0,
+      "subgroups": [
+        {
+          "subgroup_id": "53.1",
+          "subgroup_title": "一",
+          "subgroup_name": "形容建筑排列\n",
+          "idioms": [
+            {
+              "idiom_id": "53.1.1",
+              "idiom_text": "错落有致",
+              "explanation": "事物的布局虽然参差不齐，但却极有情趣，使人看了有好感"
+            },
+            {
+              "idiom_id": "53.1.2",
+              "idiom_text": "鳞次栉比",
+              "explanation": "密而整齐，可形容房屋或船只"
+            },
+            {
+              "idiom_id": "53.1.3",
+              "idiom_text": "星罗棋布",
+              "explanation": "多而广"
+            }
+          ]
+        },
+        {
+          "subgroup_id": "53.2",
+          "subgroup_title": "二",
+          "subgroup_name": "建筑美\n",
+          "idioms": [
+            {
+              "idiom_id": "53.2.1",
+              "idiom_text": "美轮美奂",
+              "explanation": "形容风景、城市、建筑物"
+            },
+            {
+              "idiom_id": "53.2.2",
+              "idiom_text": "富丽堂皇",
+              "explanation": "形容建筑物宏伟豪华"
+            },
+            {
+              "idiom_id": "53.2.3",
+              "idiom_text": "雕梁画柱",
+              "explanation": "彩绘装饰得十分华丽的房屋，一般指传统建筑"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "group_id": 54,
+      "group_title": "五十四、相同与不同",
+      "group_count": 0,
+      "subgroups": [
+        {
+          "subgroup_id": "54.1",
+          "subgroup_title": "一",
+          "subgroup_name": "一样\n",
+          "idioms": [
+            {
+              "idiom_id": "54.1.1",
+              "idiom_text": "如出一辙",
+              "explanation": "两种事物非常相似（或两种以上事物）"
+            },
+            {
+              "idiom_id": "54.1.2",
+              "idiom_text": "大同小异",
+              "explanation": "大体相同，略有差异"
+            },
+            {
+              "idiom_id": "54.1.3",
+              "idiom_text": "千篇一律",
+              "explanation": "①死板，都一样，文章公式化 ②办事按一个格式，非常机械。偏贬义"
+            }
+          ]
+        },
+        {
+          "subgroup_id": "54.2",
+          "subgroup_title": "二",
+          "subgroup_name": "没沟通过却得出同样的结果\n",
+          "idioms": [
+            {
+              "idiom_id": "54.2.1",
+              "idiom_text": "不约而同",
+              "explanation": "侧重做法。没有约定，但是做法/言行相同"
+            },
+            {
+              "idiom_id": "54.2.2",
+              "idiom_text": "不谋而合",
+              "explanation": "①没商量但看法想法相同 ②内在特点契合eg:大数据的特点与艺术的本质~"
+            },
+            {
+              "idiom_id": "54.2.3",
+              "idiom_text": "殊途同归",
+              "explanation": "不侧重结果的好坏"
+            },
+            {
+              "idiom_id": "54.2.4",
+              "idiom_text": "异曲同工",
+              "explanation": "侧重不管怎么做，都有好的结果"
+            }
+          ]
+        },
+        {
+          "subgroup_id": "54.3",
+          "subgroup_title": "三",
+          "subgroup_name": "不同\n",
+          "idioms": [
+            {
+              "idiom_id": "54.3.1",
+              "idiom_text": "大相径庭",
+              "explanation": "相差很远，大不相同"
+            },
+            {
+              "idiom_id": "54.3.2",
+              "idiom_text": "泾渭分明",
+              "explanation": "不仅强调不一样，还界限清晰"
+            }
+          ]
+        },
+        {
+          "subgroup_id": "54.4",
+          "subgroup_title": "四",
+          "subgroup_name": "差距大\n",
+          "idioms": [
+            {
+              "idiom_id": "54.4.1",
+              "idiom_text": "相去甚远",
+              "explanation": "差别大，互相之间存在很大差异和距离"
+            },
+            {
+              "idiom_id": "54.4.2",
+              "idiom_text": "判若云泥",
+              "explanation": "强调差别悬殊（=天壤之别）"
+            }
+          ]
+        },
+        {
+          "subgroup_id": "54.5",
+          "subgroup_title": "五",
+          "subgroup_name": "不分高下\n",
+          "idioms": [
+            {
+              "idiom_id": "54.5.1",
+              "idiom_text": "不分轩轾",
+              "explanation": "水平相当，不分高下轻重。对待二者的态度或看法差不多 eg:我们党反腐败不分轩轾、一视同仁。"
+            },
+            {
+              "idiom_id": "54.5.2",
+              "idiom_text": "伯仲之间",
+              "explanation": "水平相当，差不多"
+            },
+            {
+              "idiom_id": "54.5.3",
+              "idiom_text": "各有千秋",
+              "explanation": "各有各的好"
+            },
+            {
+              "idiom_id": "54.5.4",
+              "idiom_text": "平分秋色",
+              "explanation": "平局"
+            },
+            {
+              "idiom_id": "54.5.5",
+              "idiom_text": "分庭抗礼",
+              "explanation": "两个意思：①水平相当，可以相抗衡，平起平坐 ②分裂对抗"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "group_id": 55,
+      "group_title": "五十五、技艺精湛",
+      "group_count": 0,
+      "subgroups": [
+        {
+          "subgroup_id": "55.1",
+          "subgroup_title": "一",
+          "subgroup_name": "技艺十分精湛\n",
+          "idioms": [
+            {
+              "idiom_id": "55.1.1",
+              "idiom_text": "巧夺天工",
+              "explanation": "人工的精巧胜过天然，形容技艺精妙高超"
+            },
+            {
+              "idiom_id": "55.1.2",
+              "idiom_text": "精雕细琢",
+              "explanation": "精细地雕琢，强调人的态度。做事仔细用心，多指艺术品的创作"
+            },
+            {
+              "idiom_id": "55.1.3",
+              "idiom_text": "鬼斧神工",
+              "explanation": "形容大自然 eg:大自然的鬼斧神工"
+            },
+            {
+              "idiom_id": "55.1.4",
+              "idiom_text": "精益求精",
+              "explanation": "体现工匠精神，对技艺的追求好上加好"
+            },
+            {
+              "idiom_id": "55.1.5",
+              "idiom_text": "炉火纯青",
+              "explanation": "技艺高超，喻功夫达到了纯熟完美的境界"
+            },
+            {
+              "idiom_id": "55.1.6",
+              "idiom_text": "登堂入室",
+              "explanation": "达到一定高度，取得一定成就   扩充--粉墨登场：坏人走上政治舞台"
+            },
+            {
+              "idiom_id": "55.1.7",
+              "idiom_text": "登峰造极",
+              "explanation": "强调到顶点了！第一名"
+            },
+            {
+              "idiom_id": "55.1.8",
+              "idiom_text": "目无全牛",
+              "explanation": "技艺高超。扩充--庖丁解牛：技艺高超，侧重于通过实践掌握事物的客观规律"
+            }
+          ]
+        },
+        {
+          "subgroup_id": "55.2",
+          "subgroup_title": "二",
+          "subgroup_name": "技能用得熟练\n",
+          "idioms": [
+            {
+              "idiom_id": "55.2.1",
+              "idiom_text": "得心应手",
+              "explanation": "①技艺纯熟 ②学识融会贯通"
+            }
+          ]
+        },
+        {
+          "subgroup_id": "55.3",
+          "subgroup_title": "三",
+          "subgroup_name": "做得质量差\n",
+          "idioms": [
+            {
+              "idiom_id": "55.3.1",
+              "idiom_text": "粗制滥造",
+              "explanation": "质量差。只求数量，不顾质量"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "group_id": 56,
+      "group_title": "五十六、与观看欣赏相关",
+      "group_count": 0,
+      "subgroups": [
+        {
+          "subgroup_id": "56.1",
+          "subgroup_title": "一",
+          "subgroup_name": "美好事物",
+          "idioms": [
+            {
+              "idiom_id": "56.1.1",
+              "idiom_text": "蔚为大观",
+              "explanation": "形容事物美好繁多，给人一种盛大的印象（比较高大上）eg:美丽中国蔚为大观"
+            },
+            {
+              "idiom_id": "56.1.2",
+              "idiom_text": "洋洋大观",
+              "explanation": "美好的事物众多丰盛（比较具体）eg:30 个摊位吃的、喝的、用的、玩的，琳琅满目、洋洋大观。"
+            },
+            {
+              "idiom_id": "56.1.3",
+              "idiom_text": "琳琅满目",
+              "explanation": "杰出人才、好文章或精美物品很多（多形容商品）"
+            },
+            {
+              "idiom_id": "56.1.4",
+              "idiom_text": "引人入胜",
+              "explanation": "风景、故事的情节很吸引人"
+            }
+          ]
+        },
+        {
+          "subgroup_id": "56.2",
+          "subgroup_title": "二",
+          "subgroup_name": "对美景欣赏",
+          "idioms": [
+            {
+              "idiom_id": "56.2.1",
+              "idiom_text": "叹为观止",
+              "explanation": "赞美所看到的事物好到了极点"
+            },
+            {
+              "idiom_id": "56.2.2",
+              "idiom_text": "赏心悦目",
+              "explanation": "看到美好的景色而心情愉快"
+            },
+            {
+              "idiom_id": "56.2.3",
+              "idiom_text": "目不暇接",
+              "explanation": "吸引人的事物很多，看不过来 eg:令人目不暇接"
+            },
+            {
+              "idiom_id": "56.2.4",
+              "idiom_text": "眼花缭乱",
+              "explanation": "因看到繁杂的事物而感到迷乱 eg:让人眼花缭乱"
+            },
+            {
+              "idiom_id": "56.2.5",
+              "idiom_text": "心向往之",
+              "explanation": "对某个人或事物心里很向往"
+            },
+            {
+              "idiom_id": "56.2.6",
+              "idiom_text": "心驰神往",
+              "explanation": "心神奔向所向往的事物。形容一心向往"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "group_id": 57,
+      "group_title": "五十七、“说”相关",
+      "group_count": 0,
+      "subgroups": [
+        {
+          "subgroup_id": "57.1",
+          "subgroup_title": "一",
+          "subgroup_name": "形容说话言辞\n",
+          "idioms": [
+            {
+              "idiom_id": "57.1.1",
+              "idiom_text": "侃侃而谈",
+              "explanation": "褒义。会说，很自信大方"
+            },
+            {
+              "idiom_id": "57.1.2",
+              "idiom_text": "高谈阔论",
+              "explanation": "贬义。不切实际地说个没完"
+            },
+            {
+              "idiom_id": "57.1.3",
+              "idiom_text": "夸夸其谈",
+              "explanation": "贬义。不切实际地说个没完，也可形容写文章"
+            },
+            {
+              "idiom_id": "57.1.4",
+              "idiom_text": "口若悬河",
+              "explanation": "中性。能说善辩"
+            },
+            {
+              "idiom_id": "57.1.5",
+              "idiom_text": "巧舌如簧",
+              "explanation": "贬义。善于狡辩"
+            },
+            {
+              "idiom_id": "57.1.6",
+              "idiom_text": "巧言令色",
+              "explanation": "贬义，两个偏正短语结构。擅长用花言巧语和伪善的面容来取悦别人"
+            },
+            {
+              "idiom_id": "57.1.7",
+              "idiom_text": "娓娓道来",
+              "explanation": "讲话/写文章不紧不慢地、从容讲述。后对策就是娓娓道来，一点点地说"
+            }
+          ]
+        },
+        {
+          "subgroup_id": "57.2",
+          "subgroup_title": "二",
+          "subgroup_name": "学别人\n",
+          "idioms": [
+            {
+              "idiom_id": "57.2.1",
+              "idiom_text": "人云亦云",
+              "explanation": "贬义。没有主见；别人怎么说，自己也跟着怎么说（侧重于说）"
+            },
+            {
+              "idiom_id": "57.2.2",
+              "idiom_text": "拾人牙慧",
+              "explanation": "贬义。学别人说话，吧别人说的话当作他的话（侧重于学）"
+            }
+          ]
+        },
+        {
+          "subgroup_id": "57.3",
+          "subgroup_title": "三",
+          "subgroup_name": "形容坦诚\n",
+          "idioms": [
+            {
+              "idiom_id": "57.3.1",
+              "idiom_text": "推心置腹",
+              "explanation": "坦诚地对待别人。侧重两人关系亲密，掏心窝子说点心里话"
+            },
+            {
+              "idiom_id": "57.3.2",
+              "idiom_text": "开诚布公",
+              "explanation": "坦诚地对待别人。侧重没有什么隐瞒的，放开聊，心里怎么想的就怎么跟大家说"
+            },
+            {
+              "idiom_id": "57.3.3",
+              "idiom_text": "披肝沥胆",
+              "explanation": "忠诚，全身心地付出。对国家/事业~"
+            }
+          ]
+        },
+        {
+          "subgroup_id": "57.4",
+          "subgroup_title": "四",
+          "subgroup_name": "重复性表达\n",
+          "idioms": [
+            {
+              "idiom_id": "57.4.1",
+              "idiom_text": "老调重弹",
+              "explanation": "中性。①天天反复说②说话或文章没有新意"
+            },
+            {
+              "idiom_id": "57.4.2",
+              "idiom_text": "陈词滥调",
+              "explanation": "陈旧、空泛、不切实际的论调"
+            },
+            {
+              "idiom_id": "57.4.3",
+              "idiom_text": "老生常谈",
+              "explanation": "中性。侧重老说起的问题/事，听厌了的没有新鲜意思的话"
+            },
+            {
+              "idiom_id": "57.4.4",
+              "idiom_text": "流口常谈",
+              "explanation": "侧重大家都说"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "group_id": 58,
+      "group_title": "五十八、“演”相关",
+      "group_count": 0,
+      "idioms": [
+        {
+          "idiom_id": "58.1",
+          "idiom_text": "绘声绘色",
+          "explanation": "侧重讲的很有画面感"
+        },
+        {
+          "idiom_id": "58.2",
+          "idiom_text": "活灵活现",
+          "explanation": "有“绘声绘色、栩栩如生”的意思（讲的绘声绘色，像活的一样） 形容神情逼真、传神，像能亲眼所见一样"
+        },
+        {
+          "idiom_id": "58.3",
+          "idiom_text": "惟妙惟肖",
+          "explanation": "侧重模仿得像"
+        },
+        {
+          "idiom_id": "58.4",
+          "idiom_text": "栩栩如生",
+          "explanation": "像活的一样。描写人物形象、画的动物、雕塑等。"
+        },
+        {
+          "idiom_id": "58.5",
+          "idiom_text": "有声有色",
+          "explanation": "可形容表演/说话/做事，像样儿了 eg:这个活动开展的有声有色"
+        },
+        {
+          "idiom_id": "58.6",
+          "idiom_text": "一板一眼",
+          "explanation": "①像样子、合规矩 ②做事死板，不懂得灵活掌握 eg:这小孩做什么事一板一眼的。"
+        }
+      ]
+    },
+    {
+      "group_id": 59,
+      "group_title": "五十九、“听”相关",
+      "group_count": 0,
+      "subgroups": [
+        {
+          "subgroup_id": "59.1",
+          "subgroup_title": "一",
+          "subgroup_name": "声音到处都是\n",
+          "idioms": [
+            {
+              "idiom_id": "59.1.1",
+              "idiom_text": "此起彼伏",
+              "explanation": "叫卖、吆喝声此起彼伏，也可形容事物（多形容声音或事物接连不断出现）"
+            },
+            {
+              "idiom_id": "59.1.2",
+              "idiom_text": "不绝如缕",
+              "explanation": "①声音悠长 ②形容传统技艺/文艺/戏曲一直有传承人、一直没断（侧重不断） 扩充——后继无人：没有继承人；无以为继：没有办法继续下去（日子/事业等干不下去了）"
+            },
+            {
+              "idiom_id": "59.1.3",
+              "idiom_text": "经久不息",
+              "explanation": "欢呼声、掌声，长久地不停息 eg:全场掌声欢呼声经久不息 扩充——经久不衰：经过长久而不衰败"
+            }
+          ]
+        },
+        {
+          "subgroup_id": "59.2",
+          "subgroup_title": "二",
+          "subgroup_name": "声音大\n",
+          "idioms": [
+            {
+              "idiom_id": "59.2.1",
+              "idiom_text": "震耳欲聋",
+              "explanation": "声音很大，耳朵都快震聋了 eg:此时的沉默震耳欲聋（更大的是一种心灵上地冲击）"
+            },
+            {
+              "idiom_id": "59.2.2",
+              "idiom_text": "人声鼎沸",
+              "explanation": "热闹。形容人群的声音吵吵嚷嚷，就像煮开了锅一样"
+            },
+            {
+              "idiom_id": "59.2.3",
+              "idiom_text": "沸反盈天",
+              "explanation": "侧重舆论场。形容喧哗吵闹，一片混乱（程度稍重：沸沸扬扬的 pro 版）"
+            },
+            {
+              "idiom_id": "59.2.4",
+              "idiom_text": "穿云裂石",
+              "explanation": "声音大，也可形容人的歌声高亢嘹亮"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "group_id": 60,
+      "group_title": "六十、“写”相关",
+      "group_count": 0,
+      "subgroups": [
+        {
+          "subgroup_id": "60.1",
+          "subgroup_title": "一",
+          "subgroup_name": "形容文辞\n",
+          "idioms": [
+            {
+              "idiom_id": "60.1.1",
+              "idiom_text": "诘屈聱牙",
+              "explanation": "文章读起来不顺口"
+            },
+            {
+              "idiom_id": "60.1.2",
+              "idiom_text": "入木三分",
+              "explanation": "①书法笔力强劲②比喻看问题精辟、深刻③形容对人物的描写刻画形象深刻 常见固定搭配：刻画得~"
+            },
+            {
+              "idiom_id": "60.1.3",
+              "idiom_text": "只言片语",
+              "explanation": "语言文字数量极少"
+            }
+          ]
+        },
+        {
+          "subgroup_id": "60.2",
+          "subgroup_title": "二",
+          "subgroup_name": "形容文章、笔调\n",
+          "idioms": [
+            {
+              "idiom_id": "60.2.1",
+              "idiom_text": "春秋笔法",
+              "explanation": "暗含褒贬。用笔曲折而意含褒贬的写作手法"
+            },
+            {
+              "idiom_id": "60.2.2",
+              "idiom_text": "皮里阳秋",
+              "explanation": "暗含褒贬。内心有着褒贬不同的看法，表面不说"
+            },
+            {
+              "idiom_id": "60.2.3",
+              "idiom_text": "微言大义",
+              "explanation": "精微语言里有深刻的道理（话不多，但有深刻的含义）eg:社会主义核心价值观这 24 字~"
+            },
+            {
+              "idiom_id": "60.2.4",
+              "idiom_text": "字斟句酌",
+              "explanation": "每一个字词和句子都会进行仔细地考虑和推敲"
+            },
+            {
+              "idiom_id": "60.2.5",
+              "idiom_text": "惜墨如金",
+              "explanation": "不轻易动笔，字少 eg:尤其是“千字文”~，内容当然删减得多"
+            },
+            {
+              "idiom_id": "60.2.6",
+              "idiom_text": "删繁就简",
+              "explanation": "正确的做法。删除繁杂部分，简练、简明一点"
+            }
+          ]
+        },
+        {
+          "subgroup_id": "60.3",
+          "subgroup_title": "三",
+          "subgroup_name": "形容表达流畅\n",
+          "idioms": [
+            {
+              "idiom_id": "60.3.1",
+              "idiom_text": "一气呵成",
+              "explanation": "写文章/做事~。①形容文章的气势首尾贯通。②形容完成整个工作的过程中不间断，不松懈"
+            },
+            {
+              "idiom_id": "60.3.2",
+              "idiom_text": "倚马可待",
+              "explanation": "文思敏捷，文章写得快"
+            },
+            {
+              "idiom_id": "60.3.3",
+              "idiom_text": "一挥而就",
+              "explanation": "才思敏捷，写字、作文或画画速度很快"
+            },
+            {
+              "idiom_id": "60.3.4",
+              "idiom_text": "文不加点",
+              "explanation": "文章不用涂改，一气呵成。形容文思敏捷，写作技巧高超 eg:外甥小小年纪，写起文章来却能文不加点，一气呵成"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "group_id": 61,
+      "group_title": "六十一、“钱”相关",
+      "group_count": 0,
+      "subgroups": [
+        {
+          "subgroup_id": "61.1",
+          "subgroup_title": "一",
+          "subgroup_name": "贫穷\n",
+          "idioms": [
+            {
+              "idiom_id": "61.1.1",
+              "idiom_text": "身无长物",
+              "explanation": "穷。身上啥也没有"
+            },
+            {
+              "idiom_id": "61.1.2",
+              "idiom_text": "一文不名",
+              "explanation": "穷。一文钱都没有"
+            },
+            {
+              "idiom_id": "61.1.3",
+              "idiom_text": "一穷二白",
+              "explanation": "①基础差，底子薄 ②可形容人 ③可形容建国前，啥也没有"
+            },
+            {
+              "idiom_id": "61.1.4",
+              "idiom_text": "积贫积弱",
+              "explanation": "①极度的贫困和弱小 ②以前的行为导致现在的衰弱局面 ③可形容 1840 年之后的祖国"
+            },
+            {
+              "idiom_id": "61.1.5",
+              "idiom_text": "筚门圭窦",
+              "explanation": "穷。住室极其简陋 扩充--筚路蓝缕：创业艰辛"
+            },
+            {
+              "idiom_id": "61.1.6",
+              "idiom_text": "桑枢瓮牖",
+              "explanation": "穷。贫苦之家"
+            }
+          ]
+        },
+        {
+          "subgroup_id": "61.2",
+          "subgroup_title": "二",
+          "subgroup_name": "富有\n",
+          "idioms": [
+            {
+              "idiom_id": "61.2.1",
+              "idiom_text": "肥马轻裘",
+              "explanation": "富。形容阔绰，中偏下"
+            },
+            {
+              "idiom_id": "61.2.2",
+              "idiom_text": "钟鸣鼎食",
+              "explanation": "中性。有钱的人家，形容贵族的豪华排场"
+            },
+            {
+              "idiom_id": "61.2.3",
+              "idiom_text": "养尊处优",
+              "explanation": "不仅富有，还有人伺候。生活条件好，有点儿高高在上的意思 eg:地主家的傻儿子~"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "group_id": 62,
+      "group_title": "六十二、“心态”相关",
+      "group_count": 0,
+      "subgroups": [
+        {
+          "subgroup_id": "62.1",
+          "subgroup_title": "一",
+          "subgroup_name": "心态好\n",
+          "idioms": [
+            {
+              "idiom_id": "62.1.1",
+              "idiom_text": "随遇而安",
+              "explanation": "褒义。在各种环境中都能够安然自在，挺满足。心态良好的一种表现"
+            },
+            {
+              "idiom_id": "62.1.2",
+              "idiom_text": "安之若素",
+              "explanation": "在艰苦环境中，依然能够安然对待，就像平常一样 eg:希望同学们在考试面前~（以平常心对待考试） eg:只要还有一家一户乃至一个人没有解决基本生活问题，我们就不能~"
+            },
+            {
+              "idiom_id": "62.1.3",
+              "idiom_text": "安贫乐道",
+              "explanation": "①安于贫穷，以坚持自己的信念为乐 ②也可形容有精神需求的人~"
+            },
+            {
+              "idiom_id": "62.1.4",
+              "idiom_text": "泰然处之",
+              "explanation": "对什么事儿都从容不迫、不慌不忙。毫不在意，能沉着对待"
+            },
+            {
+              "idiom_id": "62.1.5",
+              "idiom_text": "从容不迫",
+              "explanation": "遇到什么事儿不慌乱，沉着冷静"
+            }
+          ]
+        },
+        {
+          "subgroup_id": "62.2",
+          "subgroup_title": "二",
+          "subgroup_name": "心态慌\n",
+          "idioms": [
+            {
+              "idiom_id": "62.2.1",
+              "idiom_text": "无所适从",
+              "explanation": "①不知道听谁的好 ②不知道怎么办才好（侧重面临选择）"
+            },
+            {
+              "idiom_id": "62.2.2",
+              "idiom_text": "不知所措",
+              "explanation": "没有办法了，不知道该怎么办"
+            },
+            {
+              "idiom_id": "62.2.3",
+              "idiom_text": "手足无措",
+              "explanation": "手脚不知道放哪儿了，有点紧张慌乱的感觉 P286"
+            },
+            {
+              "idiom_id": "62.2.4",
+              "idiom_text": "寝食难安",
+              "explanation": "放心不下眼前的事，焦急到了极点，吃也吃不好，睡也睡不着"
+            },
+            {
+              "idiom_id": "62.2.5",
+              "idiom_text": "如坐针毡",
+              "explanation": "坐不住了"
+            },
+            {
+              "idiom_id": "62.2.6",
+              "idiom_text": "如芒在背",
+              "explanation": "形容焦虑、急躁的心情"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "group_id": 63,
+      "group_title": "六十三、顾忌和无所顾忌",
+      "group_count": 0,
+      "subgroups": [
+        {
+          "subgroup_id": "63.1",
+          "subgroup_title": "一",
+          "subgroup_name": "有顾虑\n",
+          "idioms": [
+            {
+              "idiom_id": "63.1.1",
+              "idiom_text": "噤若寒蝉",
+              "explanation": "因害怕有所顾虑而不敢说话"
+            },
+            {
+              "idiom_id": "63.1.2",
+              "idiom_text": "谈虎色变",
+              "explanation": "一提起可怕的事情，脸色就变了"
+            },
+            {
+              "idiom_id": "63.1.3",
+              "idiom_text": "畏首畏尾",
+              "explanation": "做事有顾忌，前怕狼后怕虎的"
+            },
+            {
+              "idiom_id": "63.1.4",
+              "idiom_text": "投鼠忌器",
+              "explanation": "做事有顾忌，不敢放手干"
+            }
+          ]
+        },
+        {
+          "subgroup_id": "63.2",
+          "subgroup_title": "二",
+          "subgroup_name": "毫无顾忌\n",
+          "idioms": [
+            {
+              "idiom_id": "63.2.1",
+              "idiom_text": "肆意妄为",
+              "explanation": "不仅没有什么忌惮，还由着性子胡作非为"
+            },
+            {
+              "idiom_id": "63.2.2",
+              "idiom_text": "肆无忌惮",
+              "explanation": "非常放肆，没有什么可怕、畏惧的"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "group_id": 64,
+      "group_title": "六十四、近似成语",
+      "group_count": 0,
+      "idioms": [
+        {
+          "idiom_id": "64.1",
+          "idiom_text": "弹冠相庆",
+          "explanation": "形容坏人互相庆贺"
+        },
+        {
+          "idiom_id": "64.2",
+          "idiom_text": "额手相庆",
+          "explanation": "①本义是庆幸 ②现也可形容庆祝、庆贺"
+        },
+        {
+          "idiom_id": "64.3",
+          "idiom_text": "优胜劣汰",
+          "explanation": "市场竞争的规则"
+        },
+        {
+          "idiom_id": "64.4",
+          "idiom_text": "弱肉强食",
+          "explanation": "丛林法则，指动物"
+        },
+        {
+          "idiom_id": "64.5",
+          "idiom_text": "粉墨登场",
+          "explanation": "坏人登上政治舞台"
+        },
+        {
+          "idiom_id": "64.6",
+          "idiom_text": "登堂入室",
+          "explanation": "达到一定高度，取得一定成就"
+        },
+        {
+          "idiom_id": "64.7",
+          "idiom_text": "百家争鸣",
+          "explanation": "侧重学派、学术之间的交流"
+        },
+        {
+          "idiom_id": "64.8",
+          "idiom_text": "百花齐放",
+          "explanation": "侧重艺术、文化领域。百家争鸣、百花齐放可连用"
+        },
+        {
+          "idiom_id": "64.9",
+          "idiom_text": "耸人听闻",
+          "explanation": "假的。说假消息吓唬人"
+        },
+        {
+          "idiom_id": "64.10",
+          "idiom_text": "骇人听闻",
+          "explanation": "真实发生的，吓人的事"
+        },
+        {
+          "idiom_id": "64.11",
+          "idiom_text": "不易之论",
+          "explanation": "不可更改的言论，也指论断或意见正确"
+        },
+        {
+          "idiom_id": "64.12",
+          "idiom_text": "不刊之论",
+          "explanation": "不可改动或不可磨灭的言论。形容言论正确，无懈可击。用于永远不变的至理名言/真理 (比不易之论程度重）"
+        },
+        {
+          "idiom_id": "64.13",
+          "idiom_text": "朝乾夕惕",
+          "explanation": "一天到晚勤奋警惕，不懈怠 扩充--从早到晚很努力：夜以继日、焚膏继晷、夙兴夜寐、朝乾夕惕"
+        },
+        {
+          "idiom_id": "64.14",
+          "idiom_text": "夕惕若厉",
+          "explanation": "早晚都警惕，就像危险来临。一直、长久的警惕"
+        },
+        {
+          "idiom_id": "64.15",
+          "idiom_text": "曲高和寡",
+          "explanation": "曲调高了，能跟着唱的人就少了。思想、言行、文艺作品等高深，不能为多数人所理解接受。"
+        },
+        {
+          "idiom_id": "64.16",
+          "idiom_text": "阳春白雪",
+          "explanation": "高雅的   扩充--下里巴人：通俗的"
+        },
+        {
+          "idiom_id": "64.17",
+          "idiom_text": "戎马倥偬",
+          "explanation": "军务繁忙，也可形容一味带兵打仗、当兵/将军 eg:他的前半生~，能征善战，是一名出色的军事指挥员"
+        },
+        {
+          "idiom_id": "64.18",
+          "idiom_text": "厉兵秣马",
+          "explanation": "做好战斗准备"
+        },
+        {
+          "idiom_id": "64.19",
+          "idiom_text": "不容置喙",
+          "explanation": "不容许插嘴 eg:中国主权问题~"
+        },
+        {
+          "idiom_id": "64.20",
+          "idiom_text": "不容置疑",
+          "explanation": "不允许怀疑，肯定是正确的，绝对真实可信"
+        },
+        {
+          "idiom_id": "64.21",
+          "idiom_text": "移花接木",
+          "explanation": "暗中更换"
+        },
+        {
+          "idiom_id": "64.22",
+          "idiom_text": "偷梁换柱",
+          "explanation": "暗中耍手段改变事物内容，以假代真，以劣代优"
+        },
+        {
+          "idiom_id": "64.23",
+          "idiom_text": "李代桃僵",
+          "explanation": "替人受罚，替人受罪 eg:网红 A 做的事情，网红 B~"
+        },
+        {
+          "idiom_id": "64.24",
+          "idiom_text": "张冠李戴",
+          "explanation": "弄错了事实或对象"
+        }
+      ]
+    },
+    {
+      "group_id": 65,
+      "group_title": "六十五、生僻成语",
+      "group_count": 0,
+      "idioms": [
+        {
+          "idiom_id": "65.1",
+          "idiom_text": "渊渟岳峙",
+          "explanation": "①人品德如渊水深沉，如高山耸立 ②考字母意思：深渊高峰"
+        },
+        {
+          "idiom_id": "65.2",
+          "idiom_text": "不分畛域",
+          "explanation": "①不分界限、范围 ②不分彼此"
+        },
+        {
+          "idiom_id": "65.3",
+          "idiom_text": "毛举细故",
+          "explanation": "鸡毛蒜皮的小事。列举小事，加以责难或攻击"
+        },
+        {
+          "idiom_id": "65.4",
+          "idiom_text": "吉光片羽",
+          "explanation": "残存的珍贵文物。常用语境：文物、遗迹"
+        },
+        {
+          "idiom_id": "65.5",
+          "idiom_text": "钟灵毓秀",
+          "explanation": "风景美，出人才 eg:自古钟灵毓秀地，又遇文化活水来"
+        },
+        {
+          "idiom_id": "65.6",
+          "idiom_text": "瑕瑜互见",
+          "explanation": "优点缺点都有"
+        },
+        {
+          "idiom_id": "65.7",
+          "idiom_text": "沉思翰藻",
+          "explanation": "思考深刻，文藻华丽"
+        },
+        {
+          "idiom_id": "65.8",
+          "idiom_text": "太阿倒持",
+          "explanation": "把大权交给别人，自己反受其害"
+        }
+      ]
+    }
+  ]
+}
